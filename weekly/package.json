@@ -1,0 +1,17 @@
+{
+  "name": "deutschmitfarsi-weekly-ein-morgen",
+  "version": "1.0.0",
+  "description": "Ein Morgen in Deutschland – deutschmitfarsi Wochenvideo (1920x1080)",
+  "scripts": {
+    "build": "bash build.sh",
+    "render": "node scripts/render.js all 3",
+    "stills": "node scripts/render.js stills"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.56.1"
+  },
+  "private": true
+}

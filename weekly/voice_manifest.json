@@ -1,0 +1,1425 @@
+{
+ "voice": "Piper TTS, de-thorsten-low (de, 16 kHz, 1 speaker), resampled to 48 kHz",
+ "model_card": "voice/MODEL_CARD",
+ "length_scales": {
+  "explain": 1.12,
+  "learn": 1.15,
+  "slow": 1.6
+ },
+ "learner_pause_seconds": 4.0,
+ "total_duration": 452.116,
+ "repetitions": [
+  {
+   "scene": "weekly_03",
+   "cue": 1,
+   "kind": "slow_repeat",
+   "text": "Guten Morgen!",
+   "length_scale": 1.6,
+   "start": 40.294,
+   "duration": 0.896,
+   "file": "voice/cache/34c014893fffae54.wav"
+  },
+  {
+   "scene": "weekly_04",
+   "cue": 0,
+   "kind": "slow_repeat",
+   "text": "Ich hätte gern zwei Brötchen, bitte.",
+   "length_scale": 1.6,
+   "start": 65.533,
+   "duration": 2.353,
+   "file": "voice/cache/0ac1b2e878e4169b.wav"
+  },
+  {
+   "scene": "weekly_05",
+   "cue": 1,
+   "kind": "slow_repeat",
+   "text": "Ich hätte gern einen Kaffee, bitte.",
+   "length_scale": 1.6,
+   "start": 94.231,
+   "duration": 2.001,
+   "file": "voice/cache/b8f52e2340df9947.wav"
+  },
+  {
+   "scene": "weekly_06",
+   "cue": 0,
+   "kind": "slow_repeat",
+   "text": "Zum Mitnehmen, bitte.",
+   "length_scale": 1.6,
+   "start": 118.108,
+   "duration": 1.529,
+   "file": "voice/cache/256780875ff686a0.wav"
+  },
+  {
+   "scene": "weekly_07",
+   "cue": 3,
+   "kind": "slow_repeat",
+   "text": "Was kostet das zusammen?",
+   "length_scale": 1.6,
+   "start": 149.706,
+   "duration": 1.374,
+   "file": "voice/cache/3bd9c892b460d8ea.wav"
+  },
+  {
+   "scene": "weekly_08",
+   "cue": 0,
+   "kind": "slow_repeat",
+   "text": "Kann ich mit Karte zahlen?",
+   "length_scale": 1.6,
+   "start": 169.307,
+   "duration": 1.566,
+   "file": "voice/cache/7d3734758a82b609.wav"
+  },
+  {
+   "scene": "weekly_09",
+   "cue": 3,
+   "kind": "slow_repeat",
+   "text": "Nein, danke. Das ist alles.",
+   "length_scale": 1.6,
+   "start": 208.401,
+   "duration": 3.064,
+   "file": "voice/cache/75ab3a5d7d4b0bf4.wav"
+  },
+  {
+   "scene": "weekly_12",
+   "cue": 3,
+   "kind": "slow_repeat",
+   "text": "Ich fahre mit der U-Bahn zur Arbeit.",
+   "length_scale": 1.6,
+   "start": 301.864,
+   "duration": 1.761,
+   "file": "voice/cache/b7a1a4af6df18645.wav"
+  },
+  {
+   "scene": "weekly_13",
+   "cue": 1,
+   "kind": "slow_repeat",
+   "text": "Entschuldigung, wo ist die U-Bahn?",
+   "length_scale": 1.6,
+   "start": 325.134,
+   "duration": 2.397,
+   "file": "voice/cache/ed1062d13a790448.wav"
+  },
+  {
+   "scene": "weekly_15",
+   "cue": 1,
+   "kind": "slow_repeat",
+   "text": "Können Sie das bitte wiederholen?",
+   "length_scale": 1.6,
+   "start": 379.125,
+   "duration": 1.614,
+   "file": "voice/cache/46791a1d489d6d45.wav"
+  }
+ ],
+ "clips": [
+  {
+   "scene": "weekly_01",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Du stehst morgens in einer deutschen Bäckerei.",
+   "length_scale": 1.12,
+   "start": 0.9,
+   "duration": 2.085,
+   "file": "voice/cache/0d3ce06e0871fb26.wav"
+  },
+  {
+   "scene": "weekly_01",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Du möchtest zwei Brötchen und einen Kaffee.",
+   "length_scale": 1.12,
+   "start": 3.585,
+   "duration": 2.118,
+   "file": "voice/cache/2ecd44b340eb5673.wav"
+  },
+  {
+   "scene": "weekly_01",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Aber plötzlich fällt dir kein Satz ein.",
+   "length_scale": 1.12,
+   "start": 6.303,
+   "duration": 1.9,
+   "file": "voice/cache/16a511fde4fab247.wav"
+  },
+  {
+   "scene": "weekly_01",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Kennst du dieses Gefühl?",
+   "length_scale": 1.12,
+   "start": 8.803,
+   "duration": 1.097,
+   "file": "voice/cache/0cd5e79fd2760f06.wav"
+  },
+  {
+   "scene": "weekly_01",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Heute üben wir einen ganzen Morgen: bestellen, nach dem Preis fragen, zur Arbeit fahren und die Kollegen begrüßen.",
+   "length_scale": 1.12,
+   "start": 10.65,
+   "duration": 6.223,
+   "file": "voice/cache/5fdd86b350eaa925.wav"
+  },
+  {
+   "scene": "weekly_02",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Du musst nicht jedes Wort verstehen.",
+   "length_scale": 1.12,
+   "start": 18.873,
+   "duration": 1.617,
+   "file": "voice/cache/fee64de76deb8875.wav"
+  },
+  {
+   "scene": "weekly_02",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Höre zuerst zu.",
+   "length_scale": 1.12,
+   "start": 21.09,
+   "duration": 0.906,
+   "file": "voice/cache/e84a03456d4d8b14.wav"
+  },
+  {
+   "scene": "weekly_02",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Dann siehst du den deutschen Satz und seine persische Bedeutung.",
+   "length_scale": 1.12,
+   "start": 22.596,
+   "duration": 2.844,
+   "file": "voice/cache/9a0bc8d66811708c.wav"
+  },
+  {
+   "scene": "weekly_02",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Sprich bei der langsamen Wiederholung mit.",
+   "length_scale": 1.12,
+   "start": 26.039,
+   "duration": 1.933,
+   "file": "voice/cache/32bd37bf14cc8246.wav"
+  },
+  {
+   "scene": "weekly_02",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Wenn du mehr Zeit brauchst, pausiere das Video.",
+   "length_scale": 1.12,
+   "start": 28.572,
+   "duration": 2.46,
+   "file": "voice/cache/40286002e1cc86a9.wav"
+  },
+  {
+   "scene": "weekly_02",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Am Ende spielst du selbst den Kunden in einem kleinen Gespräch.",
+   "length_scale": 1.12,
+   "start": 31.632,
+   "duration": 3.25,
+   "file": "voice/cache/9427b4336cb1140a.wav"
+  },
+  {
+   "scene": "weekly_03",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Wir beginnen mit einer Begrüßung.",
+   "length_scale": 1.12,
+   "start": 36.882,
+   "duration": 1.463,
+   "file": "voice/cache/e3303462dbdcbb40.wav"
+  },
+  {
+   "scene": "weekly_03",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Guten Morgen!",
+   "length_scale": 1.15,
+   "start": 38.945,
+   "duration": 0.649,
+   "file": "voice/cache/930304edbc701ea0.wav"
+  },
+  {
+   "scene": "weekly_03",
+   "cue": 1,
+   "kind": "slow_repeat",
+   "text": "Guten Morgen!",
+   "length_scale": 1.6,
+   "start": 40.294,
+   "duration": 0.896,
+   "file": "voice/cache/34c014893fffae54.wav"
+  },
+  {
+   "scene": "weekly_03",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Diese Begrüßung passt am Morgen.",
+   "length_scale": 1.12,
+   "start": 45.79,
+   "duration": 1.675,
+   "file": "voice/cache/1292064e1ac9849f.wav"
+  },
+  {
+   "scene": "weekly_03",
+   "cue": 3,
+   "kind": "normal",
+   "text": "In einer Bäckerei kannst du danach direkt deine Bestellung sagen.",
+   "length_scale": 1.12,
+   "start": 48.065,
+   "duration": 3.321,
+   "file": "voice/cache/f01e36bab4bb9cae.wav"
+  },
+  {
+   "scene": "weekly_03",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Du brauchst keinen langen Einstieg.",
+   "length_scale": 1.12,
+   "start": 51.986,
+   "duration": 1.545,
+   "file": "voice/cache/406d8c72be67629d.wav"
+  },
+  {
+   "scene": "weekly_03",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Ein freundlicher Ton und bitte helfen.",
+   "length_scale": 1.12,
+   "start": 54.131,
+   "duration": 2.049,
+   "file": "voice/cache/42023e9792f5f922.wav"
+  },
+  {
+   "scene": "weekly_03",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Unser erster Satz lautet:",
+   "length_scale": 1.12,
+   "start": 56.78,
+   "duration": 1.236,
+   "file": "voice/cache/15dfd8c67f030a99.wav"
+  },
+  {
+   "scene": "weekly_03",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Guten Morgen! Ich hätte gern zwei Brötchen, bitte.",
+   "length_scale": 1.12,
+   "start": 58.317,
+   "duration": 2.747,
+   "file": "voice/cache/b924f11db17aaf91.wav"
+  },
+  {
+   "scene": "weekly_04",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Ich hätte gern zwei Brötchen, bitte.",
+   "length_scale": 1.15,
+   "start": 63.064,
+   "duration": 1.77,
+   "file": "voice/cache/3dc37fdb06fc6ae3.wav"
+  },
+  {
+   "scene": "weekly_04",
+   "cue": 0,
+   "kind": "slow_repeat",
+   "text": "Ich hätte gern zwei Brötchen, bitte.",
+   "length_scale": 1.6,
+   "start": 65.533,
+   "duration": 2.353,
+   "file": "voice/cache/0ac1b2e878e4169b.wav"
+  },
+  {
+   "scene": "weekly_04",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Mit ich hätte gern formulierst du einen Wunsch höflich.",
+   "length_scale": 1.12,
+   "start": 72.486,
+   "duration": 2.14,
+   "file": "voice/cache/8eb23b7f933dd8e8.wav"
+  },
+  {
+   "scene": "weekly_04",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Du kannst den Gegenstand austauschen: einen Kaffee, eine Brezel oder zwei Brötchen.",
+   "length_scale": 1.12,
+   "start": 75.226,
+   "duration": 4.248,
+   "file": "voice/cache/ba1070d43235d15f.wav"
+  },
+  {
+   "scene": "weekly_04",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Achte darauf: ein Kaffee wird hier zu einen Kaffee.",
+   "length_scale": 1.12,
+   "start": 80.075,
+   "duration": 2.667,
+   "file": "voice/cache/e0b8c38e6a9cec84.wav"
+  },
+  {
+   "scene": "weekly_04",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Du musst die ganze Grammatik noch nicht beherrschen.",
+   "length_scale": 1.12,
+   "start": 83.341,
+   "duration": 2.145,
+   "file": "voice/cache/fb27af3fb5a30a95.wav"
+  },
+  {
+   "scene": "weekly_04",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Lerne zunächst den vollständigen Satz.",
+   "length_scale": 1.12,
+   "start": 86.086,
+   "duration": 2.011,
+   "file": "voice/cache/e155847261916450.wav"
+  },
+  {
+   "scene": "weekly_05",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Jetzt kommt der Kaffee.",
+   "length_scale": 1.12,
+   "start": 90.096,
+   "duration": 1.095,
+   "file": "voice/cache/d939734d56f350c0.wav"
+  },
+  {
+   "scene": "weekly_05",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Ich hätte gern einen Kaffee, bitte.",
+   "length_scale": 1.15,
+   "start": 91.791,
+   "duration": 1.74,
+   "file": "voice/cache/a6aeb70b49bdaa0f.wav"
+  },
+  {
+   "scene": "weekly_05",
+   "cue": 1,
+   "kind": "slow_repeat",
+   "text": "Ich hätte gern einen Kaffee, bitte.",
+   "length_scale": 1.6,
+   "start": 94.231,
+   "duration": 2.001,
+   "file": "voice/cache/b8f52e2340df9947.wav"
+  },
+  {
+   "scene": "weekly_05",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Die Person hinter der Theke könnte fragen:",
+   "length_scale": 1.12,
+   "start": 100.832,
+   "duration": 1.855,
+   "file": "voice/cache/9d613e4489544be9.wav"
+  },
+  {
+   "scene": "weekly_05",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Zum Mitnehmen oder hier trinken?",
+   "length_scale": 1.12,
+   "start": 102.986,
+   "duration": 1.644,
+   "file": "voice/cache/45026fcd5ba91413.wav"
+  },
+  {
+   "scene": "weekly_05",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Zum Mitnehmen bedeutet, dass du die Bestellung mitnimmst.",
+   "length_scale": 1.12,
+   "start": 105.38,
+   "duration": 2.743,
+   "file": "voice/cache/a2032d369eac99f9.wav"
+  },
+  {
+   "scene": "weekly_05",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Wenn du im Café bleibst, kannst du sagen: Ich trinke ihn hier.",
+   "length_scale": 1.12,
+   "start": 108.724,
+   "duration": 3.222,
+   "file": "voice/cache/8593fe66c5f489a3.wav"
+  },
+  {
+   "scene": "weekly_05",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Wir nehmen unseren Kaffee heute mit.",
+   "length_scale": 1.12,
+   "start": 112.546,
+   "duration": 1.666,
+   "file": "voice/cache/f892c70fcaa7121c.wav"
+  },
+  {
+   "scene": "weekly_06",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Zum Mitnehmen, bitte.",
+   "length_scale": 1.15,
+   "start": 116.212,
+   "duration": 1.196,
+   "file": "voice/cache/111da0f79048d72f.wav"
+  },
+  {
+   "scene": "weekly_06",
+   "cue": 0,
+   "kind": "slow_repeat",
+   "text": "Zum Mitnehmen, bitte.",
+   "length_scale": 1.6,
+   "start": 118.108,
+   "duration": 1.529,
+   "file": "voice/cache/256780875ff686a0.wav"
+  },
+  {
+   "scene": "weekly_06",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Dieser kurze Satz reicht als Antwort.",
+   "length_scale": 1.12,
+   "start": 124.237,
+   "duration": 1.905,
+   "file": "voice/cache/527bd7f525347586.wav"
+  },
+  {
+   "scene": "weekly_06",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Du kannst auch eine Brezel mitnehmen.",
+   "length_scale": 1.12,
+   "start": 126.741,
+   "duration": 1.651,
+   "file": "voice/cache/deb0a7c96927f477.wav"
+  },
+  {
+   "scene": "weekly_06",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Sage dann: Eine Brezel zum Mitnehmen, bitte.",
+   "length_scale": 1.12,
+   "start": 128.992,
+   "duration": 2.65,
+   "file": "voice/cache/e2e0246ba464aaa0.wav"
+  },
+  {
+   "scene": "weekly_06",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Das sind Beispielsätze zum Üben.",
+   "length_scale": 1.12,
+   "start": 132.243,
+   "duration": 1.532,
+   "file": "voice/cache/f15d07e9d09679c6.wav"
+  },
+  {
+   "scene": "weekly_06",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Die Fotos zeigen passende Motive und keine Aufnahme unseres erfundenen Gesprächs.",
+   "length_scale": 1.12,
+   "start": 134.375,
+   "duration": 5.109,
+   "file": "voice/cache/739ca779522cc208.wav"
+  },
+  {
+   "scene": "weekly_07",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Du möchtest den Preis wissen.",
+   "length_scale": 1.12,
+   "start": 141.483,
+   "duration": 1.152,
+   "file": "voice/cache/4bbdb2067c735361.wav"
+  },
+  {
+   "scene": "weekly_07",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Was kostet das?",
+   "length_scale": 1.12,
+   "start": 143.236,
+   "duration": 0.867,
+   "file": "voice/cache/4f517156d7f8b5b4.wav"
+  },
+  {
+   "scene": "weekly_07",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Wenn du auf mehrere Dinge zeigst, kannst du auch fragen:",
+   "length_scale": 1.12,
+   "start": 144.853,
+   "duration": 2.621,
+   "file": "voice/cache/633e33b67d88bd63.wav"
+  },
+  {
+   "scene": "weekly_07",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Was kostet das zusammen?",
+   "length_scale": 1.15,
+   "start": 147.774,
+   "duration": 1.232,
+   "file": "voice/cache/b3e24f49c9b990f0.wav"
+  },
+  {
+   "scene": "weekly_07",
+   "cue": 3,
+   "kind": "slow_repeat",
+   "text": "Was kostet das zusammen?",
+   "length_scale": 1.6,
+   "start": 149.706,
+   "duration": 1.374,
+   "file": "voice/cache/3bd9c892b460d8ea.wav"
+  },
+  {
+   "scene": "weekly_07",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Zusammen bedeutet hier: alles insgesamt.",
+   "length_scale": 1.12,
+   "start": 155.83,
+   "duration": 2.425,
+   "file": "voice/cache/a960df13144947bc.wav"
+  },
+  {
+   "scene": "weekly_07",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Wir zeigen bewusst keinen echten Ladenpreis.",
+   "length_scale": 1.12,
+   "start": 158.854,
+   "duration": 2.37,
+   "file": "voice/cache/327ae1794564821d.wav"
+  },
+  {
+   "scene": "weekly_07",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Preise ändern sich und hängen vom Geschäft und der Bestellung ab.",
+   "length_scale": 1.12,
+   "start": 161.824,
+   "duration": 3.421,
+   "file": "voice/cache/0e7f74da3f264b73.wav"
+  },
+  {
+   "scene": "weekly_08",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Kann ich mit Karte zahlen?",
+   "length_scale": 1.15,
+   "start": 167.245,
+   "duration": 1.362,
+   "file": "voice/cache/93b48c793d83f513.wav"
+  },
+  {
+   "scene": "weekly_08",
+   "cue": 0,
+   "kind": "slow_repeat",
+   "text": "Kann ich mit Karte zahlen?",
+   "length_scale": 1.6,
+   "start": 169.307,
+   "duration": 1.566,
+   "file": "voice/cache/7d3734758a82b609.wav"
+  },
+  {
+   "scene": "weekly_08",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Das ist eine Frage, keine Garantie, dass Kartenzahlung möglich ist.",
+   "length_scale": 1.12,
+   "start": 175.623,
+   "duration": 3.874,
+   "file": "voice/cache/c094b2a16d907c38.wav"
+  },
+  {
+   "scene": "weekly_08",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Die Antwort kann ja oder nein sein.",
+   "length_scale": 1.12,
+   "start": 180.097,
+   "duration": 2.053,
+   "file": "voice/cache/f0be30b27f0ee67a.wav"
+  },
+  {
+   "scene": "weekly_08",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Wenn Bargeld nötig ist, könnte die Person sagen:",
+   "length_scale": 1.12,
+   "start": 182.75,
+   "duration": 2.649,
+   "file": "voice/cache/963f3ed76f24392c.wav"
+  },
+  {
+   "scene": "weekly_08",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Nur bar, bitte.",
+   "length_scale": 1.12,
+   "start": 185.698,
+   "duration": 1.051,
+   "file": "voice/cache/c64aa1c2ab3bcdef.wav"
+  },
+  {
+   "scene": "weekly_08",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Mit Karte heißt:",
+   "length_scale": 1.12,
+   "start": 187.35,
+   "duration": 0.927,
+   "file": "voice/cache/1ae75abe13608fc2.wav"
+  },
+  {
+   "scene": "weekly_08",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Bar heißt:",
+   "length_scale": 1.12,
+   "start": 190.477,
+   "duration": 0.434,
+   "file": "voice/cache/3f07f8673fa4798f.wav"
+  },
+  {
+   "scene": "weekly_08",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Höre auf die Antwort und frage bei Bedarf nach.",
+   "length_scale": 1.12,
+   "start": 193.11,
+   "duration": 2.599,
+   "file": "voice/cache/7c067439f77446b9.wav"
+  },
+  {
+   "scene": "weekly_09",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Sonst noch etwas?",
+   "length_scale": 1.12,
+   "start": 197.709,
+   "duration": 1.067,
+   "file": "voice/cache/5f8dd7c12b268609.wav"
+  },
+  {
+   "scene": "weekly_09",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Diese Frage bedeutet: Möchtest du noch etwas bestellen?",
+   "length_scale": 1.12,
+   "start": 199.526,
+   "duration": 2.831,
+   "file": "voice/cache/b35ed246d9e4009f.wav"
+  },
+  {
+   "scene": "weekly_09",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Wenn du fertig bist, antwortest du:",
+   "length_scale": 1.12,
+   "start": 203.107,
+   "duration": 1.905,
+   "file": "voice/cache/fd58380be0aa2053.wav"
+  },
+  {
+   "scene": "weekly_09",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Nein, danke. Das ist alles.",
+   "length_scale": 1.15,
+   "start": 205.312,
+   "duration": 2.39,
+   "file": "voice/cache/07c3337b366e48dc.wav"
+  },
+  {
+   "scene": "weekly_09",
+   "cue": 3,
+   "kind": "slow_repeat",
+   "text": "Nein, danke. Das ist alles.",
+   "length_scale": 1.6,
+   "start": 208.401,
+   "duration": 3.064,
+   "file": "voice/cache/75ab3a5d7d4b0bf4.wav"
+  },
+  {
+   "scene": "weekly_09",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Danach: Vielen Dank! Einen schönen Tag noch!",
+   "length_scale": 1.12,
+   "start": 216.065,
+   "duration": 2.823,
+   "file": "voice/cache/5a5feeacd2986d19.wav"
+  },
+  {
+   "scene": "weekly_09",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Du musst nicht alle Sätze auf einmal sagen.",
+   "length_scale": 1.12,
+   "start": 219.488,
+   "duration": 2.02,
+   "file": "voice/cache/a23249018a34fee7.wav"
+  },
+  {
+   "scene": "weekly_09",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Wähle einen freundlichen Abschluss, der für dich natürlich klingt.",
+   "length_scale": 1.12,
+   "start": 222.108,
+   "duration": 2.935,
+   "file": "voice/cache/01dfc5d22d6fdb07.wav"
+  },
+  {
+   "scene": "weekly_10",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Höre jetzt unser ganzes Beispiel.",
+   "length_scale": 1.12,
+   "start": 227.043,
+   "duration": 1.721,
+   "file": "voice/cache/d958ecb36e7003d7.wav"
+  },
+  {
+   "scene": "weekly_10",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Guten Morgen! Was möchten Sie?",
+   "length_scale": 1.12,
+   "start": 229.563,
+   "duration": 1.815,
+   "file": "voice/cache/6b5a7f148fbd7f69.wav"
+  },
+  {
+   "scene": "weekly_10",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Guten Morgen! Ich hätte gern zwei Brötchen und einen Kaffee, bitte.",
+   "length_scale": 1.12,
+   "start": 232.128,
+   "duration": 4.11,
+   "file": "voice/cache/6d29b6517de9ba90.wav"
+  },
+  {
+   "scene": "weekly_10",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Zum Mitnehmen?",
+   "length_scale": 1.12,
+   "start": 236.988,
+   "duration": 0.949,
+   "file": "voice/cache/d91135b7eb4f9d27.wav"
+  },
+  {
+   "scene": "weekly_10",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Ja, bitte. Was kostet das zusammen?",
+   "length_scale": 1.12,
+   "start": 238.687,
+   "duration": 2.821,
+   "file": "voice/cache/3a1a5461bd68a137.wav"
+  },
+  {
+   "scene": "weekly_10",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Einen Moment, bitte.",
+   "length_scale": 1.12,
+   "start": 242.258,
+   "duration": 1.058,
+   "file": "voice/cache/8caea3e03671619b.wav"
+  },
+  {
+   "scene": "weekly_10",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Kann ich mit Karte zahlen?",
+   "length_scale": 1.12,
+   "start": 244.066,
+   "duration": 1.227,
+   "file": "voice/cache/8aa9ac1617161224.wav"
+  },
+  {
+   "scene": "weekly_10",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Ja. Sonst noch etwas?",
+   "length_scale": 1.12,
+   "start": 246.043,
+   "duration": 1.69,
+   "file": "voice/cache/2792af8689434d6c.wav"
+  },
+  {
+   "scene": "weekly_10",
+   "cue": 8,
+   "kind": "normal",
+   "text": "Nein, danke. Das ist alles.",
+   "length_scale": 1.12,
+   "start": 248.483,
+   "duration": 2.412,
+   "file": "voice/cache/e3a4d20d92757326.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Jetzt bist du der Kunde.",
+   "length_scale": 1.12,
+   "start": 252.895,
+   "duration": 0.926,
+   "file": "voice/cache/b853612894cff467.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Ich stelle die Fragen.",
+   "length_scale": 1.12,
+   "start": 254.421,
+   "duration": 0.881,
+   "file": "voice/cache/88399f995a608fb1.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Antworte laut.",
+   "length_scale": 1.12,
+   "start": 255.902,
+   "duration": 0.841,
+   "file": "voice/cache/346025f769fe76a7.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Guten Morgen! Was möchten Sie?",
+   "length_scale": 1.12,
+   "start": 257.543,
+   "duration": 1.815,
+   "file": "voice/cache/6b5a7f148fbd7f69.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Zum Mitnehmen oder hier trinken?",
+   "length_scale": 1.12,
+   "start": 265.508,
+   "duration": 1.644,
+   "file": "voice/cache/45026fcd5ba91413.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Sonst noch etwas?",
+   "length_scale": 1.12,
+   "start": 273.303,
+   "duration": 1.067,
+   "file": "voice/cache/5f8dd7c12b268609.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Sehr gut.",
+   "length_scale": 1.12,
+   "start": 280.519,
+   "duration": 0.538,
+   "file": "voice/cache/c2320ba700ad9ff6.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Vergleiche deine Antworten mit diesen Möglichkeiten:",
+   "length_scale": 1.12,
+   "start": 281.657,
+   "duration": 2.537,
+   "file": "voice/cache/24c25e080fe083d4.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 8,
+   "kind": "normal",
+   "text": "Ich hätte gern zwei Brötchen und einen Kaffee, bitte.",
+   "length_scale": 1.12,
+   "start": 284.794,
+   "duration": 2.681,
+   "file": "voice/cache/22df3139cef37e96.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 9,
+   "kind": "normal",
+   "text": "Zum Mitnehmen, bitte.",
+   "length_scale": 1.12,
+   "start": 288.075,
+   "duration": 1.275,
+   "file": "voice/cache/0751ab4eed9a54bb.wav"
+  },
+  {
+   "scene": "weekly_11",
+   "cue": 10,
+   "kind": "normal",
+   "text": "Nein, danke. Das ist alles.",
+   "length_scale": 1.12,
+   "start": 289.95,
+   "duration": 2.412,
+   "file": "voice/cache/e3a4d20d92757326.wav"
+  },
+  {
+   "scene": "weekly_12",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Wir gehen weiter zur Arbeit.",
+   "length_scale": 1.12,
+   "start": 294.362,
+   "duration": 1.363,
+   "file": "voice/cache/6fb419f8b0b8a60d.wav"
+  },
+  {
+   "scene": "weekly_12",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Heute fahren wir mit der U-Bahn.",
+   "length_scale": 1.12,
+   "start": 296.325,
+   "duration": 1.456,
+   "file": "voice/cache/71e609eb277ed1db.wav"
+  },
+  {
+   "scene": "weekly_12",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Unser Satz lautet:",
+   "length_scale": 1.12,
+   "start": 298.381,
+   "duration": 0.996,
+   "file": "voice/cache/be63c52645dc7120.wav"
+  },
+  {
+   "scene": "weekly_12",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Ich fahre mit der U-Bahn zur Arbeit.",
+   "length_scale": 1.15,
+   "start": 299.677,
+   "duration": 1.487,
+   "file": "voice/cache/09c6647fb1cdf605.wav"
+  },
+  {
+   "scene": "weekly_12",
+   "cue": 3,
+   "kind": "slow_repeat",
+   "text": "Ich fahre mit der U-Bahn zur Arbeit.",
+   "length_scale": 1.6,
+   "start": 301.864,
+   "duration": 1.761,
+   "file": "voice/cache/b7a1a4af6df18645.wav"
+  },
+  {
+   "scene": "weekly_12",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Zur Arbeit beschreibt das Ziel.",
+   "length_scale": 1.12,
+   "start": 308.225,
+   "duration": 1.462,
+   "file": "voice/cache/2e09038df981e7f0.wav"
+  },
+  {
+   "scene": "weekly_12",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Mit der U-Bahn beschreibt das Verkehrsmittel.",
+   "length_scale": 1.12,
+   "start": 310.287,
+   "duration": 2.101,
+   "file": "voice/cache/3f75489494ec646b.wav"
+  },
+  {
+   "scene": "weekly_12",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Du kannst auch sagen: Ich fahre mit dem Bus zur Arbeit.",
+   "length_scale": 1.12,
+   "start": 312.988,
+   "duration": 2.732,
+   "file": "voice/cache/bfa5aff2c3153180.wav"
+  },
+  {
+   "scene": "weekly_12",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Oder: Ich gehe zu Fuß zur Arbeit.",
+   "length_scale": 1.12,
+   "start": 316.32,
+   "duration": 2.035,
+   "file": "voice/cache/6615f2c4f0ab56d6.wav"
+  },
+  {
+   "scene": "weekly_13",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Wenn du die Richtung nicht kennst, frage:",
+   "length_scale": 1.12,
+   "start": 320.355,
+   "duration": 1.786,
+   "file": "voice/cache/7b651af7be435f8d.wav"
+  },
+  {
+   "scene": "weekly_13",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Entschuldigung, wo ist die U-Bahn?",
+   "length_scale": 1.15,
+   "start": 322.441,
+   "duration": 1.994,
+   "file": "voice/cache/9b4f589111c1e4c2.wav"
+  },
+  {
+   "scene": "weekly_13",
+   "cue": 1,
+   "kind": "slow_repeat",
+   "text": "Entschuldigung, wo ist die U-Bahn?",
+   "length_scale": 1.6,
+   "start": 325.134,
+   "duration": 2.397,
+   "file": "voice/cache/ed1062d13a790448.wav"
+  },
+  {
+   "scene": "weekly_13",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Entschuldigung ist ein höflicher Einstieg.",
+   "length_scale": 1.12,
+   "start": 332.281,
+   "duration": 1.948,
+   "file": "voice/cache/0f6212c116e8287e.wav"
+  },
+  {
+   "scene": "weekly_13",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Eine mögliche Antwort lautet: Geradeaus und dann rechts.",
+   "length_scale": 1.12,
+   "start": 334.829,
+   "duration": 3.119,
+   "file": "voice/cache/cd67dfff65a85917.wav"
+  },
+  {
+   "scene": "weekly_13",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Geradeaus bedeutet:",
+   "length_scale": 1.12,
+   "start": 338.548,
+   "duration": 1.071,
+   "file": "voice/cache/de1c025b92c6bf53.wav"
+  },
+  {
+   "scene": "weekly_13",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Rechts bedeutet:",
+   "length_scale": 1.12,
+   "start": 341.719,
+   "duration": 0.906,
+   "file": "voice/cache/6ee0630cad9d565e.wav"
+  },
+  {
+   "scene": "weekly_13",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Links bedeutet:",
+   "length_scale": 1.12,
+   "start": 344.726,
+   "duration": 0.795,
+   "file": "voice/cache/c661ab61b1fd85ef.wav"
+  },
+  {
+   "scene": "weekly_13",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Diese Wegbeschreibung ist nur ein Übungsbeispiel und keine echte Route.",
+   "length_scale": 1.12,
+   "start": 347.62,
+   "duration": 3.987,
+   "file": "voice/cache/89160cc91652fae3.wav"
+  },
+  {
+   "scene": "weekly_14",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Du kommst an und sagst: Guten Morgen! Wie geht es dir?",
+   "length_scale": 1.12,
+   "start": 353.607,
+   "duration": 3.35,
+   "file": "voice/cache/7c648378773c5a64.wav"
+  },
+  {
+   "scene": "weekly_14",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Bei einer Person, die du siezt, heißt die Frage: Wie geht es Ihnen?",
+   "length_scale": 1.12,
+   "start": 357.707,
+   "duration": 4.002,
+   "file": "voice/cache/d94a11cd2431aeb6.wav"
+  },
+  {
+   "scene": "weekly_14",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Du kannst antworten: Gut, danke. Und dir?",
+   "length_scale": 1.12,
+   "start": 362.459,
+   "duration": 3.207,
+   "file": "voice/cache/4cfaf634aee8fd46.wav"
+  },
+  {
+   "scene": "weekly_14",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Oder höflich: Und Ihnen?",
+   "length_scale": 1.12,
+   "start": 366.415,
+   "duration": 1.418,
+   "file": "voice/cache/b323cea64b2583e2.wav"
+  },
+  {
+   "scene": "weekly_14",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Ob du du oder Sie verwendest, hängt von der Person und der Situation ab.",
+   "length_scale": 1.12,
+   "start": 368.583,
+   "duration": 3.844,
+   "file": "voice/cache/c5b3f94e6fcfb059.wav"
+  },
+  {
+   "scene": "weekly_15",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Du hast etwas nicht verstanden. Sage:",
+   "length_scale": 1.12,
+   "start": 374.427,
+   "duration": 2.342,
+   "file": "voice/cache/0d0ae121d0c385df.wav"
+  },
+  {
+   "scene": "weekly_15",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Können Sie das bitte wiederholen?",
+   "length_scale": 1.15,
+   "start": 377.069,
+   "duration": 1.356,
+   "file": "voice/cache/3d76cf757de80950.wav"
+  },
+  {
+   "scene": "weekly_15",
+   "cue": 1,
+   "kind": "slow_repeat",
+   "text": "Können Sie das bitte wiederholen?",
+   "length_scale": 1.6,
+   "start": 379.125,
+   "duration": 1.614,
+   "file": "voice/cache/46791a1d489d6d45.wav"
+  },
+  {
+   "scene": "weekly_15",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Oder: Können Sie bitte langsamer sprechen?",
+   "length_scale": 1.12,
+   "start": 385.489,
+   "duration": 2.142,
+   "file": "voice/cache/fb21373e27507bc9.wav"
+  },
+  {
+   "scene": "weekly_15",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Nachfragen ist Teil des Lernens.",
+   "length_scale": 1.12,
+   "start": 388.382,
+   "duration": 1.645,
+   "file": "voice/cache/39ab6b7fe37d2240.wav"
+  },
+  {
+   "scene": "weekly_15",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Du musst kein Verständnis vortäuschen.",
+   "length_scale": 1.12,
+   "start": 390.627,
+   "duration": 1.891,
+   "file": "voice/cache/febbc8a404b712a4.wav"
+  },
+  {
+   "scene": "weekly_15",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Diese beiden Sätze helfen dir in vielen Gesprächen, nicht nur bei der Arbeit.",
+   "length_scale": 1.12,
+   "start": 393.118,
+   "duration": 4.098,
+   "file": "voice/cache/ae4e50a83dc6c73d.wav"
+  },
+  {
+   "scene": "weekly_16",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Ein kurzes Quiz.",
+   "length_scale": 1.12,
+   "start": 399.216,
+   "duration": 0.942,
+   "file": "voice/cache/84696838241811cd.wav"
+  },
+  {
+   "scene": "weekly_16",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Du möchtest einen Kaffee höflich bestellen.",
+   "length_scale": 1.12,
+   "start": 400.758,
+   "duration": 1.886,
+   "file": "voice/cache/21bb46ffddea80ef.wav"
+  },
+  {
+   "scene": "weekly_16",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Welcher Satz passt?",
+   "length_scale": 1.12,
+   "start": 403.244,
+   "duration": 0.963,
+   "file": "voice/cache/e12bd351756f1a76.wav"
+  },
+  {
+   "scene": "weekly_16",
+   "cue": 3,
+   "kind": "normal",
+   "text": "A: Ich hätte gern einen Kaffee, bitte.",
+   "length_scale": 1.12,
+   "start": 404.957,
+   "duration": 2.018,
+   "file": "voice/cache/14a11b39ac046854.wav"
+  },
+  {
+   "scene": "weekly_16",
+   "cue": 4,
+   "kind": "normal",
+   "text": "B: Wo ist die U-Bahn?",
+   "length_scale": 1.12,
+   "start": 407.575,
+   "duration": 1.241,
+   "file": "voice/cache/3428f7101bb6ee03.wav"
+  },
+  {
+   "scene": "weekly_16",
+   "cue": 5,
+   "kind": "normal",
+   "text": "C: Wie geht es Ihnen?",
+   "length_scale": 1.12,
+   "start": 409.565,
+   "duration": 1.286,
+   "file": "voice/cache/984c00579232523b.wav"
+  },
+  {
+   "scene": "weekly_16",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Die richtige Antwort ist A.",
+   "length_scale": 1.12,
+   "start": 417.001,
+   "duration": 1.471,
+   "file": "voice/cache/621c26fc7c244c13.wav"
+  },
+  {
+   "scene": "weekly_16",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Zweite Frage: Wie bittest du um eine Wiederholung?",
+   "length_scale": 1.12,
+   "start": 419.371,
+   "duration": 2.763,
+   "file": "voice/cache/a2a086a8317ef3c1.wav"
+  },
+  {
+   "scene": "weekly_16",
+   "cue": 8,
+   "kind": "normal",
+   "text": "Richtig: Können Sie das bitte wiederholen?",
+   "length_scale": 1.12,
+   "start": 428.284,
+   "duration": 1.926,
+   "file": "voice/cache/61b7c36086a1e295.wav"
+  },
+  {
+   "scene": "weekly_17",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Heute hast du bestellt, nach dem Preis gefragt, bezahlt und einen Weg beschrieben.",
+   "length_scale": 1.12,
+   "start": 432.21,
+   "duration": 4.316,
+   "file": "voice/cache/2207ac080a2b1a63.wav"
+  },
+  {
+   "scene": "weekly_17",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Wähle drei Sätze und benutze sie heute als eigene Übung.",
+   "length_scale": 1.12,
+   "start": 437.126,
+   "duration": 3.177,
+   "file": "voice/cache/e5402a76aa85899a.wav"
+  },
+  {
+   "scene": "weekly_17",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Schreibe in die Kommentare: Ich hätte gern, und ergänze deine Bestellung.",
+   "length_scale": 1.12,
+   "start": 440.902,
+   "duration": 3.79,
+   "file": "voice/cache/f524e0597258547e.wav"
+  },
+  {
+   "scene": "weekly_17",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Abonniere Deutsch mit Farsi für die nächste Lektion.",
+   "length_scale": 1.12,
+   "start": 445.292,
+   "duration": 2.613,
+   "file": "voice/cache/410375f1ec86aa36.wav"
+  },
+  {
+   "scene": "weekly_17",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Jeden Tag einen Schritt näher an die deutsche Sprache.",
+   "length_scale": 1.12,
+   "start": 448.505,
+   "duration": 2.511,
+   "file": "voice/cache/4863b4212eac92ad.wav"
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "weekly_01",
+    "title": "Hook",
+    "start_target": 0,
+    "duration_target": 25,
+    "visual": "assets/bread_coffee.jpg",
+    "narration_de": "Du stehst morgens in einer deutschen Bäckerei. Du möchtest zwei Brötchen und einen Kaffee. Aber plötzlich fällt dir kein Satz ein. Kennst du dieses Gefühl? Heute üben wir einen ganzen Morgen: bestellen, nach dem Preis fragen, zur Arbeit fahren und die Kollegen begrüßen.",
+    "translation_fa": "صبح در یک نانوایی آلمانی ایستاده‌ای. دو نان کوچک و یک قهوه می‌خواهی، اما جمله‌ای به ذهنت نمی‌رسد. امروز یک صبح کامل را تمرین می‌کنیم: سفارش، پرسیدن قیمت، رفتن به محل کار و سلام کردن به همکاران.",
+    "animation": "Ken Burns photo with separate word card"
+  },
+  {
+    "id": "weekly_02",
+    "title": "Lernplan",
+    "start_target": 25,
+    "duration_target": 25,
+    "visual": "original SVG/cards",
+    "narration_de": "Du musst nicht jedes Wort verstehen. Höre zuerst zu. Dann siehst du den deutschen Satz und seine persische Bedeutung. Sprich bei der langsamen Wiederholung mit. Wenn du mehr Zeit brauchst, pausiere das Video. Am Ende spielst du selbst den Kunden in einem kleinen Gespräch.",
+    "translation_fa": "لازم نیست تمام کلمه‌ها را بفهمی. اول گوش کن، سپس جمله و معنی فارسی را ببین. هنگام تکرار آهسته همراه گوینده بگو. در پایان خودت نقش مشتری را بازی می‌کنی.",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  },
+  {
+    "id": "weekly_03",
+    "title": "Begrüßen",
+    "start_target": 50,
+    "duration_target": 35,
+    "visual": "assets/bakery.jpg",
+    "narration_de": "Wir beginnen mit einer Begrüßung. Guten Morgen! Diese Begrüßung passt am Morgen. In einer Bäckerei kannst du danach direkt deine Bestellung sagen. Du brauchst keinen langen Einstieg. Ein freundlicher Ton und bitte helfen. Unser erster Satz lautet: Guten Morgen! Ich hätte gern zwei Brötchen, bitte.",
+    "translation_fa": "با سلام شروع می‌کنیم: صبح بخیر! سپس می‌توانی مستقیم سفارش بدهی. لحن دوستانه و «لطفاً» کمک می‌کنند. جملهٔ اول: صبح بخیر! لطفاً دو نان کوچک می‌خواهم.",
+    "animation": "Ken Burns photo with separate word card"
+  },
+  {
+    "id": "weekly_04",
+    "title": "Bestellen",
+    "start_target": 85,
+    "duration_target": 45,
+    "visual": "original SVG/cards",
+    "narration_de": "Ich hätte gern zwei Brötchen, bitte. Mit ich hätte gern formulierst du einen Wunsch höflich. Du kannst den Gegenstand austauschen: einen Kaffee, eine Brezel oder zwei Brötchen. Achte darauf: ein Kaffee wird hier zu einen Kaffee. Du musst die ganze Grammatik noch nicht beherrschen. Lerne zunächst den vollständigen Satz.",
+    "translation_fa": "با «Ich hätte gern» خواسته‌ات را مؤدبانه می‌گویی. می‌توانی قهوه، پرتزل یا دو نان سفارش بدهی. در این جمله «ein Kaffee» به «einen Kaffee» تبدیل می‌شود. فعلاً جملهٔ کامل را تمرین کن.",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  },
+  {
+    "id": "weekly_05",
+    "title": "Kaffee",
+    "start_target": 130,
+    "duration_target": 40,
+    "visual": "assets/bread_coffee.jpg",
+    "narration_de": "Jetzt kommt der Kaffee. Ich hätte gern einen Kaffee, bitte. Die Person hinter der Theke könnte fragen: Zum Mitnehmen oder hier trinken? Zum Mitnehmen bedeutet, dass du die Bestellung mitnimmst. Wenn du im Café bleibst, kannst du sagen: Ich trinke ihn hier. Wir nehmen unseren Kaffee heute mit.",
+    "translation_fa": "حالا قهوه: لطفاً یک قهوه می‌خواهم. ممکن است بپرسند: بیرون‌بر یا همین‌جا می‌نوشید؟ «Zum Mitnehmen» یعنی بیرون‌بر. اگر می‌مانی: همین‌جا می‌نوشم. امروز قهوه را با خودمان می‌بریم.",
+    "animation": "Ken Burns photo with separate word card"
+  },
+  {
+    "id": "weekly_06",
+    "title": "Antworten",
+    "start_target": 170,
+    "duration_target": 30,
+    "visual": "original SVG/cards",
+    "narration_de": "Zum Mitnehmen, bitte. Dieser kurze Satz reicht als Antwort. Du kannst auch eine Brezel mitnehmen. Sage dann: Eine Brezel zum Mitnehmen, bitte. Das sind Beispielsätze zum Üben. Die Fotos zeigen passende Motive und keine Aufnahme unseres erfundenen Gesprächs.",
+    "translation_fa": "بیرون‌بر، لطفاً. همین پاسخ کوتاه کافی است. می‌توانی بگویی: یک پرتزل بیرون‌بر، لطفاً. این مکالمه برای آموزش ساخته شده؛ عکس‌ها تصویر کمکی‌اند.",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  },
+  {
+    "id": "weekly_07",
+    "title": "Preis",
+    "start_target": 200,
+    "duration_target": 35,
+    "visual": "original SVG/cards",
+    "narration_de": "Du möchtest den Preis wissen. Was kostet das? Wenn du auf mehrere Dinge zeigst, kannst du auch fragen: Was kostet das zusammen? Zusammen bedeutet hier: alles insgesamt. Wir zeigen bewusst keinen echten Ladenpreis. Preise ändern sich und hängen vom Geschäft und der Bestellung ab.",
+    "translation_fa": "قیمتش چقدر است؟ برای چند چیز می‌توانی بپرسی: همه با هم چقدر می‌شود؟ «zusammen» یعنی در مجموع. قیمت واقعی نشان نمی‌دهیم، چون به فروشگاه و سفارش بستگی دارد.",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  },
+  {
+    "id": "weekly_08",
+    "title": "Bezahlen",
+    "start_target": 235,
+    "duration_target": 35,
+    "visual": "original SVG/cards",
+    "narration_de": "Kann ich mit Karte zahlen? Das ist eine Frage, keine Garantie, dass Kartenzahlung möglich ist. Die Antwort kann ja oder nein sein. Wenn Bargeld nötig ist, könnte die Person sagen: Nur bar, bitte. Mit Karte heißt با کارت. Bar heißt نقدی. Höre auf die Antwort und frage bei Bedarf nach.",
+    "translation_fa": "می‌توانم با کارت پرداخت کنم؟ این سؤال به معنی امکان قطعی پرداخت با کارت نیست. ممکن است پاسخ بدهند: فقط نقدی، لطفاً. به پاسخ گوش بده و در صورت نیاز دوباره بپرس.",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  },
+  {
+    "id": "weekly_09",
+    "title": "Abschluss",
+    "start_target": 270,
+    "duration_target": 30,
+    "visual": "assets/bakery.jpg",
+    "narration_de": "Sonst noch etwas? Diese Frage bedeutet: Möchtest du noch etwas bestellen? Wenn du fertig bist, antwortest du: Nein, danke. Das ist alles. Danach: Vielen Dank! Einen schönen Tag noch! Du musst nicht alle Sätze auf einmal sagen. Wähle einen freundlichen Abschluss, der für dich natürlich klingt.",
+    "translation_fa": "چیز دیگری هم می‌خواهید؟ اگر سفارشت تمام شده: نه، ممنون. همین است. سپس: خیلی ممنون! روز خوبی داشته باشید. یک پایان دوستانه انتخاب کن.",
+    "animation": "Ken Burns photo with separate word card"
+  },
+  {
+    "id": "weekly_10",
+    "title": "Dialog zuhören",
+    "start_target": 300,
+    "duration_target": 45,
+    "visual": "original SVG/cards",
+    "narration_de": "Höre jetzt unser ganzes Beispiel. Verkäufer: Guten Morgen! Was möchten Sie? Kunde: Guten Morgen! Ich hätte gern zwei Brötchen und einen Kaffee, bitte. Verkäufer: Zum Mitnehmen? Kunde: Ja, bitte. Was kostet das zusammen? Verkäufer: Einen Moment, bitte. Kunde: Kann ich mit Karte zahlen? Verkäufer: Ja. Sonst noch etwas? Kunde: Nein, danke. Das ist alles.",
+    "translation_fa": "مکالمهٔ کامل: فروشنده می‌پرسد چه می‌خواهید. مشتری دو نان و یک قهوه سفارش می‌دهد، بیرون‌بر می‌خواهد، قیمت مجموع و امکان پرداخت با کارت را می‌پرسد و سفارش را تمام می‌کند.",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  },
+  {
+    "id": "weekly_11",
+    "title": "Deine Rolle",
+    "start_target": 345,
+    "duration_target": 50,
+    "visual": "original SVG/cards",
+    "narration_de": "Jetzt bist du der Kunde. Ich stelle die Fragen. Antworte laut. Guten Morgen! Was möchten Sie? Zum Mitnehmen oder hier trinken? Sonst noch etwas? Sehr gut. Vergleiche deine Antworten mit diesen Möglichkeiten: Ich hätte gern zwei Brötchen und einen Kaffee, bitte. Zum Mitnehmen, bitte. Nein, danke. Das ist alles.",
+    "translation_fa": "حالا نقش مشتری با توست. با صدای بلند پاسخ بده: چه می‌خواهید؟ بیرون‌بر یا همین‌جا؟ چیز دیگری؟ پاسخ‌های پیشنهادی را بعد از فرصت تمرین ببین.",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  },
+  {
+    "id": "weekly_12",
+    "title": "Unterwegs",
+    "start_target": 395,
+    "duration_target": 35,
+    "visual": "assets/metro_interior.jpg",
+    "narration_de": "Wir gehen weiter zur Arbeit. Heute fahren wir mit der U-Bahn. Unser Satz lautet: Ich fahre mit der U-Bahn zur Arbeit. Zur Arbeit beschreibt das Ziel. Mit der U-Bahn beschreibt das Verkehrsmittel. Du kannst auch sagen: Ich fahre mit dem Bus zur Arbeit. Oder: Ich gehe zu Fuß zur Arbeit.",
+    "translation_fa": "حالا به محل کار می‌رویم. امروز با مترو: من با مترو به محل کار می‌روم. «zur Arbeit» مقصد و «mit der U-Bahn» وسیله را نشان می‌دهد. می‌توانی اتوبوس یا پیاده رفتن را هم جایگزین کنی.",
+    "animation": "Ken Burns photo with separate word card"
+  },
+  {
+    "id": "weekly_13",
+    "title": "Nach dem Weg fragen",
+    "start_target": 430,
+    "duration_target": 35,
+    "visual": "assets/metro_interior.jpg",
+    "narration_de": "Wenn du die Richtung nicht kennst, frage: Entschuldigung, wo ist die U-Bahn? Entschuldigung ist ein höflicher Einstieg. Eine mögliche Antwort lautet: Geradeaus und dann rechts. Geradeaus bedeutet مستقیم. Rechts bedeutet راست. Links bedeutet چپ. Diese Wegbeschreibung ist nur ein Übungsbeispiel und keine echte Route.",
+    "translation_fa": "ببخشید، مترو کجاست؟ پاسخ نمونه: مستقیم و بعد راست. «geradeaus» مستقیم، «rechts» راست و «links» چپ است. این مسیر صرفاً یک مثال آموزشی است.",
+    "animation": "Ken Burns photo with separate word card"
+  },
+  {
+    "id": "weekly_14",
+    "title": "Bei der Arbeit",
+    "start_target": 465,
+    "duration_target": 35,
+    "visual": "original SVG/cards",
+    "narration_de": "Du kommst an und sagst: Guten Morgen! Wie geht es dir? Bei einer Person, die du siezt, heißt die Frage: Wie geht es Ihnen? Du kannst antworten: Gut, danke. Und dir? Oder höflich: Und Ihnen? Ob du du oder Sie verwendest, hängt von der Person und der Situation ab.",
+    "translation_fa": "می‌رسی و می‌گویی: صبح بخیر! حالت چطور است؟ حالت رسمی: حال شما چطور است؟ پاسخ: خوبم، ممنون. و تو؟ یا رسمی: و شما؟ انتخاب «du» یا «Sie» به فرد و موقعیت بستگی دارد.",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  },
+  {
+    "id": "weekly_15",
+    "title": "Um Hilfe bitten",
+    "start_target": 500,
+    "duration_target": 30,
+    "visual": "original SVG/cards",
+    "narration_de": "Du hast etwas nicht verstanden. Sage: Können Sie das bitte wiederholen? Oder: Können Sie bitte langsamer sprechen? Nachfragen ist Teil des Lernens. Du musst kein Verständnis vortäuschen. Diese beiden Sätze helfen dir in vielen Gesprächen, nicht nur bei der Arbeit.",
+    "translation_fa": "چیزی را نفهمیده‌ای: می‌توانید لطفاً تکرار کنید؟ یا: می‌توانید لطفاً آهسته‌تر صحبت کنید؟ پرسیدن دوباره بخشی از یادگیری است؛ لازم نیست وانمود کنی فهمیده‌ای.",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  },
+  {
+    "id": "weekly_16",
+    "title": "Quiz",
+    "start_target": 530,
+    "duration_target": 35,
+    "visual": "original SVG/cards",
+    "narration_de": "Ein kurzes Quiz. Du möchtest einen Kaffee höflich bestellen. Welcher Satz passt? A: Ich hätte gern einen Kaffee, bitte. B: Wo ist die U-Bahn? C: Wie geht es Ihnen? Die richtige Antwort ist A. Zweite Frage: Wie bittest du um eine Wiederholung? Richtig: Können Sie das bitte wiederholen?",
+    "translation_fa": "آزمون کوتاه: برای سفارش مؤدبانهٔ قهوه کدام جمله مناسب است؟ پاسخ A. سؤال دوم: چطور درخواست تکرار می‌کنی؟ پاسخ: می‌توانید لطفاً آن را تکرار کنید؟",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  },
+  {
+    "id": "weekly_17",
+    "title": "Zusammenfassung und CTA",
+    "start_target": 565,
+    "duration_target": 35,
+    "visual": "original SVG/cards",
+    "narration_de": "Heute hast du bestellt, nach dem Preis gefragt, bezahlt und einen Weg beschrieben. Wähle drei Sätze und benutze sie heute als eigene Übung. Schreibe in die Kommentare: Ich hätte gern, und ergänze deine Bestellung. Abonniere Deutsch mit Farsi für die nächste Lektion. Jeden Tag einen Schritt näher an die deutsche Sprache.",
+    "translation_fa": "امروز سفارش، سؤال دربارهٔ قیمت، پرداخت و مسیر را تمرین کردی. سه جمله را انتخاب و تمرین کن. در کامنت سفارش خودت را بنویس. برای درس بعدی سابسکرایب کن. هر روز یک قدم به زبان آلمانی نزدیک‌تر.",
+    "animation": "animated word cards / dialogue bubbles / quiz"
+  }
+]

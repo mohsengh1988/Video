@@ -1,0 +1,82 @@
+[
+  {
+    "de": "Guten Morgen!",
+    "fa": "صبح بخیر!",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Ich hätte gern zwei Brötchen, bitte.",
+    "fa": "لطفاً دو نان کوچک می‌خواهم.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Ich hätte gern einen Kaffee, bitte.",
+    "fa": "لطفاً یک قهوه می‌خواهم.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Zum Mitnehmen, bitte.",
+    "fa": "بیرون‌بر، لطفاً.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Was kostet das zusammen?",
+    "fa": "همه با هم چقدر می‌شود؟",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Kann ich mit Karte zahlen?",
+    "fa": "می‌توانم با کارت پرداخت کنم؟",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Nein, danke. Das ist alles.",
+    "fa": "نه، ممنون. همین است.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Ich fahre mit der U-Bahn zur Arbeit.",
+    "fa": "با مترو به محل کار می‌روم.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Entschuldigung, wo ist die U-Bahn?",
+    "fa": "ببخشید، مترو کجاست؟",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Können Sie das bitte wiederholen?",
+    "fa": "می‌توانید لطفاً آن را تکرار کنید؟",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  }
+]

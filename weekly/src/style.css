@@ -1,0 +1,16 @@
+@font-face{font-family:Lalezar;src:url(../fonts/Lalezar-Regular.ttf) format("truetype");}
+@font-face{font-family:Inter;src:url(../fonts/Inter.ttf) format("truetype");font-weight:100 900;}
+:root{--cream:#F7F0E2;--cream2:#EFE4CF;--paper:#FFFBF3;--blue:#9FD0F0;--blue2:#CFE7F7;--blue3:#5E9FCB;--navy:#18263F;--muted:#55607A;--brown:#7A3E14;}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:var(--cream);color:var(--navy);-webkit-font-smoothing:antialiased;overflow:hidden}
+.de{font-family:Inter,sans-serif}
+.fa{font-family:Lalezar,sans-serif;direction:rtl;font-weight:400}
+.canvas{position:relative;overflow:hidden;background:var(--cream)}
+.pill{display:inline-flex;align-items:center;gap:12px;font-family:Inter;font-weight:700;font-size:30px;letter-spacing:.02em;color:var(--navy);background:var(--blue2);padding:12px 26px 13px;border-radius:999px}
+.pill i{width:12px;height:12px;border-radius:50%;background:var(--blue3);display:block}
+.logo{position:absolute;display:inline-flex;align-items:center;gap:10px;background:var(--navy);color:#FFFBF3;border-radius:999px;padding:12px 22px 13px 14px;font-family:Inter;font-size:26px;letter-spacing:-.01em;line-height:1}
+.logo b{font-weight:800}.logo span{font-weight:500;color:var(--blue)}
+.logo .mark{width:34px;height:34px;border-radius:50%;background:var(--blue);display:grid;place-items:center}
+.rauten{position:absolute;left:0;right:0;top:0;height:20px}
+.card{position:absolute;overflow:hidden;border-radius:36px;box-shadow:0 18px 40px rgba(60,40,15,.16),0 2px 0 rgba(255,255,255,.6) inset}
+.abs{position:absolute}

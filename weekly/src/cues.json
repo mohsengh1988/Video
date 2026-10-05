@@ -1,0 +1,213 @@
+{
+  "title_de": "Ein Morgen in Deutschland",
+  "title_fa": "یک صبح در آلمان",
+  "note": "Sprechtext aus SCRIPT.md, in Einzelsätze (cues) zerlegt. learn=true: danach langsame Wiederholung (1.6) + 4 s Pause. wait=true: freie Antwortzeit mit Countdown. role: Sprecherbeschriftung im Dialog (wird nicht gesprochen). Persische Wörter im Sprechtext werden nicht gesprochen, sondern eingeblendet (pause).",
+  "scenes": [
+    {
+      "id": "weekly_01", "title": "Hook", "photo": "bread_coffee.jpg",
+      "cues": [
+        {"say": "Du stehst morgens in einer deutschen Bäckerei.", "fa": "صبح در یک نانوایی آلمانی ایستاده‌ای."},
+        {"say": "Du möchtest zwei Brötchen und einen Kaffee.", "fa": "دو نان کوچک و یک قهوه می‌خواهی، اما جمله‌ای به ذهنت نمی‌رسد."},
+        {"say": "Aber plötzlich fällt dir kein Satz ein."},
+        {"say": "Kennst du dieses Gefühl?"},
+        {"say": "Heute üben wir einen ganzen Morgen: bestellen, nach dem Preis fragen, zur Arbeit fahren und die Kollegen begrüßen.", "fa": "امروز یک صبح کامل را تمرین می‌کنیم: سفارش، پرسیدن قیمت، رفتن به محل کار و سلام کردن به همکاران."}
+      ]
+    },
+    {
+      "id": "weekly_02", "title": "Lernplan",
+      "cues": [
+        {"say": "Du musst nicht jedes Wort verstehen.", "fa": "لازم نیست تمام کلمه‌ها را بفهمی."},
+        {"say": "Höre zuerst zu.", "fa": "اول گوش کن، سپس جمله و معنی فارسی را ببین."},
+        {"say": "Dann siehst du den deutschen Satz und seine persische Bedeutung."},
+        {"say": "Sprich bei der langsamen Wiederholung mit.", "fa": "هنگام تکرار آهسته همراه گوینده بگو."},
+        {"say": "Wenn du mehr Zeit brauchst, pausiere das Video.", "fa": "اگر به زمان بیشتری نیاز داری، ویدیو را متوقف کن.", "fa_added": true},
+        {"say": "Am Ende spielst du selbst den Kunden in einem kleinen Gespräch.", "fa": "در پایان خودت نقش مشتری را بازی می‌کنی."}
+      ]
+    },
+    {
+      "id": "weekly_03", "title": "Begrüßen", "photo": "bakery.jpg",
+      "cues": [
+        {"say": "Wir beginnen mit einer Begrüßung.", "fa": "با سلام شروع می‌کنیم: صبح بخیر!"},
+        {"say": "Guten Morgen!", "learn": true, "fa": "صبح بخیر!"},
+        {"say": "Diese Begrüßung passt am Morgen.", "fa": "این سلام برای صبح مناسب است.", "fa_added": true},
+        {"say": "In einer Bäckerei kannst du danach direkt deine Bestellung sagen.", "fa": "سپس می‌توانی مستقیم سفارش بدهی."},
+        {"say": "Du brauchst keinen langen Einstieg."},
+        {"say": "Ein freundlicher Ton und bitte helfen.", "show": "Ein freundlicher Ton und „bitte“ helfen.", "fa": "لحن دوستانه و «لطفاً» کمک می‌کنند."},
+        {"say": "Unser erster Satz lautet:", "gap": 0.3, "fa": "جملهٔ اول: صبح بخیر! لطفاً دو نان کوچک می‌خواهم."},
+        {"say": "Guten Morgen! Ich hätte gern zwei Brötchen, bitte."}
+      ]
+    },
+    {
+      "id": "weekly_04", "title": "Bestellen",
+      "cues": [
+        {"say": "Ich hätte gern zwei Brötchen, bitte.", "learn": true, "fa": "لطفاً دو نان کوچک می‌خواهم."},
+        {"say": "Mit ich hätte gern formulierst du einen Wunsch höflich.", "show": "Mit „Ich hätte gern“ formulierst du einen Wunsch höflich.", "fa": "با «Ich hätte gern» خواسته‌ات را مؤدبانه می‌گویی."},
+        {"say": "Du kannst den Gegenstand austauschen: einen Kaffee, eine Brezel oder zwei Brötchen.", "fa": "می‌توانی قهوه، پرتزل یا دو نان سفارش بدهی."},
+        {"say": "Achte darauf: ein Kaffee wird hier zu einen Kaffee.", "show": "Achte darauf: „ein Kaffee“ wird hier zu „einen Kaffee“.", "fa": "در این جمله «ein Kaffee» به «einen Kaffee» تبدیل می‌شود."},
+        {"say": "Du musst die ganze Grammatik noch nicht beherrschen.", "fa": "فعلاً جملهٔ کامل را تمرین کن."},
+        {"say": "Lerne zunächst den vollständigen Satz."}
+      ]
+    },
+    {
+      "id": "weekly_05", "title": "Kaffee", "photo": "bread_coffee.jpg",
+      "cues": [
+        {"say": "Jetzt kommt der Kaffee.", "fa": "حالا قهوه: لطفاً یک قهوه می‌خواهم."},
+        {"say": "Ich hätte gern einen Kaffee, bitte.", "learn": true, "fa": "لطفاً یک قهوه می‌خواهم."},
+        {"say": "Die Person hinter der Theke könnte fragen:", "gap": 0.3, "fa": "ممکن است بپرسند: بیرون‌بر یا همین‌جا می‌نوشید؟"},
+        {"say": "Zum Mitnehmen oder hier trinken?"},
+        {"say": "Zum Mitnehmen bedeutet, dass du die Bestellung mitnimmst.", "show": "„Zum Mitnehmen“ bedeutet, dass du die Bestellung mitnimmst.", "fa": "«Zum Mitnehmen» یعنی بیرون‌بر."},
+        {"say": "Wenn du im Café bleibst, kannst du sagen: Ich trinke ihn hier.", "fa": "اگر می‌مانی: همین‌جا می‌نوشم."},
+        {"say": "Wir nehmen unseren Kaffee heute mit.", "fa": "امروز قهوه را با خودمان می‌بریم."}
+      ]
+    },
+    {
+      "id": "weekly_06", "title": "Antworten",
+      "cues": [
+        {"say": "Zum Mitnehmen, bitte.", "learn": true, "fa": "بیرون‌بر، لطفاً."},
+        {"say": "Dieser kurze Satz reicht als Antwort.", "fa": "همین پاسخ کوتاه کافی است."},
+        {"say": "Du kannst auch eine Brezel mitnehmen.", "fa": "می‌توانی بگویی: یک پرتزل بیرون‌بر، لطفاً."},
+        {"say": "Sage dann: Eine Brezel zum Mitnehmen, bitte."},
+        {"say": "Das sind Beispielsätze zum Üben.", "fa": "این مکالمه برای آموزش ساخته شده؛ عکس‌ها تصویر کمکی‌اند."},
+        {"say": "Die Fotos zeigen passende Motive und keine Aufnahme unseres erfundenen Gesprächs."}
+      ]
+    },
+    {
+      "id": "weekly_07", "title": "Preis",
+      "cues": [
+        {"say": "Du möchtest den Preis wissen.", "fa": "می‌خواهی قیمت را بدانی.", "fa_added": true},
+        {"say": "Was kostet das?", "fa": "قیمتش چقدر است؟"},
+        {"say": "Wenn du auf mehrere Dinge zeigst, kannst du auch fragen:", "gap": 0.3, "fa": "برای چند چیز می‌توانی بپرسی: همه با هم چقدر می‌شود؟"},
+        {"say": "Was kostet das zusammen?", "learn": true},
+        {"say": "Zusammen bedeutet hier: alles insgesamt.", "show": "„Zusammen“ bedeutet hier: alles insgesamt.", "fa": "«zusammen» یعنی در مجموع."},
+        {"say": "Wir zeigen bewusst keinen echten Ladenpreis.", "fa": "قیمت واقعی نشان نمی‌دهیم، چون به فروشگاه و سفارش بستگی دارد."},
+        {"say": "Preise ändern sich und hängen vom Geschäft und der Bestellung ab."}
+      ]
+    },
+    {
+      "id": "weekly_08", "title": "Bezahlen",
+      "cues": [
+        {"say": "Kann ich mit Karte zahlen?", "learn": true, "fa": "می‌توانم با کارت پرداخت کنم؟"},
+        {"say": "Das ist eine Frage, keine Garantie, dass Kartenzahlung möglich ist.", "fa": "این سؤال به معنی امکان قطعی پرداخت با کارت نیست."},
+        {"say": "Die Antwort kann ja oder nein sein.", "fa": "پاسخ می‌تواند بله یا نه باشد.", "fa_added": true},
+        {"say": "Wenn Bargeld nötig ist, könnte die Person sagen:", "gap": 0.3, "fa": "ممکن است پاسخ بدهند: فقط نقدی، لطفاً."},
+        {"say": "Nur bar, bitte."},
+        {"say": "Mit Karte heißt:", "show": "„Mit Karte“ heißt: با کارت", "pause": 1.6, "fa": "«mit Karte» یعنی با کارت.", "fa_added": true, "spoken_note": "persisches Wort wird eingeblendet, nicht gesprochen"},
+        {"say": "Bar heißt:", "show": "„Bar“ heißt: نقدی", "pause": 1.6, "fa": "«bar» یعنی نقدی.", "fa_added": true, "spoken_note": "persisches Wort wird eingeblendet, nicht gesprochen"},
+        {"say": "Höre auf die Antwort und frage bei Bedarf nach.", "fa": "به پاسخ گوش بده و در صورت نیاز دوباره بپرس."}
+      ]
+    },
+    {
+      "id": "weekly_09", "title": "Abschluss", "photo": "bakery.jpg",
+      "cues": [
+        {"say": "Sonst noch etwas?", "fa": "چیز دیگری هم می‌خواهید؟"},
+        {"say": "Diese Frage bedeutet: Möchtest du noch etwas bestellen?"},
+        {"say": "Wenn du fertig bist, antwortest du:", "gap": 0.3, "fa": "اگر سفارشت تمام شده: نه، ممنون. همین است."},
+        {"say": "Nein, danke. Das ist alles.", "learn": true},
+        {"say": "Danach: Vielen Dank! Einen schönen Tag noch!", "fa": "سپس: خیلی ممنون! روز خوبی داشته باشید."},
+        {"say": "Du musst nicht alle Sätze auf einmal sagen.", "fa": "لازم نیست همهٔ جمله‌ها را یک‌جا بگویی.", "fa_added": true},
+        {"say": "Wähle einen freundlichen Abschluss, der für dich natürlich klingt.", "fa": "یک پایان دوستانه انتخاب کن."}
+      ]
+    },
+    {
+      "id": "weekly_10", "title": "Dialog zuhören",
+      "cues": [
+        {"say": "Höre jetzt unser ganzes Beispiel.", "fa": "حالا کل مکالمه را گوش کن.", "fa_added": true, "gap": 0.8},
+        {"say": "Guten Morgen! Was möchten Sie?", "role": "Verkäufer", "gap": 0.75, "fa": "صبح بخیر! چه می‌خواهید؟", "fa_added": true},
+        {"say": "Guten Morgen! Ich hätte gern zwei Brötchen und einen Kaffee, bitte.", "role": "Kunde", "gap": 0.75, "fa": "صبح بخیر! لطفاً دو نان کوچک و یک قهوه می‌خواهم.", "fa_added": true},
+        {"say": "Zum Mitnehmen?", "role": "Verkäufer", "gap": 0.75, "fa": "بیرون‌بر؟", "fa_added": true},
+        {"say": "Ja, bitte. Was kostet das zusammen?", "role": "Kunde", "gap": 0.75, "fa": "بله، لطفاً. همه با هم چقدر می‌شود؟", "fa_added": true},
+        {"say": "Einen Moment, bitte.", "role": "Verkäufer", "gap": 0.75, "fa": "یک لحظه، لطفاً.", "fa_added": true},
+        {"say": "Kann ich mit Karte zahlen?", "role": "Kunde", "gap": 0.75, "fa": "می‌توانم با کارت پرداخت کنم؟"},
+        {"say": "Ja. Sonst noch etwas?", "role": "Verkäufer", "gap": 0.75, "fa": "بله. چیز دیگری هم می‌خواهید؟", "fa_added": true},
+        {"say": "Nein, danke. Das ist alles.", "role": "Kunde", "fa": "نه، ممنون. همین است."}
+      ]
+    },
+    {
+      "id": "weekly_11", "title": "Deine Rolle",
+      "cues": [
+        {"say": "Jetzt bist du der Kunde.", "fa": "حالا نقش مشتری با توست."},
+        {"say": "Ich stelle die Fragen.", "fa": "من سؤال می‌پرسم.", "fa_added": true},
+        {"say": "Antworte laut.", "fa": "با صدای بلند پاسخ بده.", "gap": 0.8},
+        {"say": "Guten Morgen! Was möchten Sie?", "role": "Verkäufer", "wait": 5, "fa": "چه می‌خواهید؟"},
+        {"say": "Zum Mitnehmen oder hier trinken?", "role": "Verkäufer", "wait": 5, "fa": "بیرون‌بر یا همین‌جا؟"},
+        {"say": "Sonst noch etwas?", "role": "Verkäufer", "wait": 5, "fa": "چیز دیگری؟"},
+        {"say": "Sehr gut.", "fa": "خیلی خوب.", "fa_added": true},
+        {"say": "Vergleiche deine Antworten mit diesen Möglichkeiten:", "fa": "پاسخ‌های پیشنهادی را بعد از فرصت تمرین ببین."},
+        {"say": "Ich hätte gern zwei Brötchen und einen Kaffee, bitte.", "fa": "لطفاً دو نان کوچک و یک قهوه می‌خواهم.", "fa_added": true},
+        {"say": "Zum Mitnehmen, bitte.", "fa": "بیرون‌بر، لطفاً."},
+        {"say": "Nein, danke. Das ist alles.", "fa": "نه، ممنون. همین است."}
+      ]
+    },
+    {
+      "id": "weekly_12", "title": "Unterwegs", "photo": "metro_interior.jpg",
+      "cues": [
+        {"say": "Wir gehen weiter zur Arbeit.", "fa": "حالا به محل کار می‌رویم."},
+        {"say": "Heute fahren wir mit der U-Bahn.", "fa": "امروز با مترو می‌رویم.", "fa_added": true},
+        {"say": "Unser Satz lautet:", "gap": 0.3, "fa": "من با مترو به محل کار می‌روم."},
+        {"say": "Ich fahre mit der U-Bahn zur Arbeit.", "learn": true},
+        {"say": "Zur Arbeit beschreibt das Ziel.", "show": "„Zur Arbeit“ beschreibt das Ziel.", "fa": "«zur Arbeit» مقصد و «mit der U-Bahn» وسیله را نشان می‌دهد."},
+        {"say": "Mit der U-Bahn beschreibt das Verkehrsmittel.", "show": "„Mit der U-Bahn“ beschreibt das Verkehrsmittel."},
+        {"say": "Du kannst auch sagen: Ich fahre mit dem Bus zur Arbeit.", "fa": "می‌توانی اتوبوس یا پیاده رفتن را هم جایگزین کنی."},
+        {"say": "Oder: Ich gehe zu Fuß zur Arbeit."}
+      ]
+    },
+    {
+      "id": "weekly_13", "title": "Nach dem Weg fragen", "photo": "metro_interior.jpg",
+      "cues": [
+        {"say": "Wenn du die Richtung nicht kennst, frage:", "gap": 0.3, "fa": "ببخشید، مترو کجاست؟"},
+        {"say": "Entschuldigung, wo ist die U-Bahn?", "learn": true},
+        {"say": "Entschuldigung ist ein höflicher Einstieg.", "show": "„Entschuldigung“ ist ein höflicher Einstieg.", "fa": "«Entschuldigung» شروعی مؤدبانه است.", "fa_added": true},
+        {"say": "Eine mögliche Antwort lautet: Geradeaus und dann rechts.", "fa": "پاسخ نمونه: مستقیم و بعد راست."},
+        {"say": "Geradeaus bedeutet:", "show": "„Geradeaus“ bedeutet: مستقیم", "pause": 1.5, "fa": "«geradeaus» مستقیم، «rechts» راست و «links» چپ است.", "spoken_note": "persisches Wort wird eingeblendet, nicht gesprochen"},
+        {"say": "Rechts bedeutet:", "show": "„Rechts“ bedeutet: راست", "pause": 1.5, "spoken_note": "persisches Wort wird eingeblendet, nicht gesprochen"},
+        {"say": "Links bedeutet:", "show": "„Links“ bedeutet: چپ", "pause": 1.5, "spoken_note": "persisches Wort wird eingeblendet, nicht gesprochen"},
+        {"say": "Diese Wegbeschreibung ist nur ein Übungsbeispiel und keine echte Route.", "fa": "این مسیر صرفاً یک مثال آموزشی است."}
+      ]
+    },
+    {
+      "id": "weekly_14", "title": "Bei der Arbeit",
+      "cues": [
+        {"say": "Du kommst an und sagst: Guten Morgen! Wie geht es dir?", "fa": "می‌رسی و می‌گویی: صبح بخیر! حالت چطور است؟"},
+        {"say": "Bei einer Person, die du siezt, heißt die Frage: Wie geht es Ihnen?", "fa": "حالت رسمی: حال شما چطور است؟"},
+        {"say": "Du kannst antworten: Gut, danke. Und dir?", "fa": "پاسخ: خوبم، ممنون. و تو؟"},
+        {"say": "Oder höflich: Und Ihnen?", "fa": "یا رسمی: و شما؟"},
+        {"say": "Ob du du oder Sie verwendest, hängt von der Person und der Situation ab.", "show": "Ob du „du“ oder „Sie“ verwendest, hängt von der Person und der Situation ab.", "fa": "انتخاب «du» یا «Sie» به فرد و موقعیت بستگی دارد."}
+      ]
+    },
+    {
+      "id": "weekly_15", "title": "Um Hilfe bitten",
+      "cues": [
+        {"say": "Du hast etwas nicht verstanden. Sage:", "gap": 0.3, "fa": "چیزی را نفهمیده‌ای: می‌توانید لطفاً تکرار کنید؟"},
+        {"say": "Können Sie das bitte wiederholen?", "learn": true},
+        {"say": "Oder: Können Sie bitte langsamer sprechen?", "fa": "یا: می‌توانید لطفاً آهسته‌تر صحبت کنید؟"},
+        {"say": "Nachfragen ist Teil des Lernens.", "fa": "پرسیدن دوباره بخشی از یادگیری است؛ لازم نیست وانمود کنی فهمیده‌ای."},
+        {"say": "Du musst kein Verständnis vortäuschen."},
+        {"say": "Diese beiden Sätze helfen dir in vielen Gesprächen, nicht nur bei der Arbeit.", "fa": "این دو جمله در بسیاری از گفت‌وگوها کمکت می‌کنند، نه فقط سر کار.", "fa_added": true}
+      ]
+    },
+    {
+      "id": "weekly_16", "title": "Quiz",
+      "cues": [
+        {"say": "Ein kurzes Quiz.", "fa": "آزمون کوتاه"},
+        {"say": "Du möchtest einen Kaffee höflich bestellen.", "fa": "برای سفارش مؤدبانهٔ قهوه کدام جمله مناسب است؟"},
+        {"say": "Welcher Satz passt?"},
+        {"say": "A: Ich hätte gern einen Kaffee, bitte."},
+        {"say": "B: Wo ist die U-Bahn?"},
+        {"say": "C: Wie geht es Ihnen?", "wait": 5},
+        {"say": "Die richtige Antwort ist A.", "fa": "پاسخ A.", "gap": 0.9},
+        {"say": "Zweite Frage: Wie bittest du um eine Wiederholung?", "wait": 5, "fa": "سؤال دوم: چطور درخواست تکرار می‌کنی؟"},
+        {"say": "Richtig: Können Sie das bitte wiederholen?", "fa": "پاسخ: می‌توانید لطفاً آن را تکرار کنید؟"}
+      ]
+    },
+    {
+      "id": "weekly_17", "title": "Zusammenfassung und CTA",
+      "cues": [
+        {"say": "Heute hast du bestellt, nach dem Preis gefragt, bezahlt und einen Weg beschrieben.", "fa": "امروز سفارش، سؤال دربارهٔ قیمت، پرداخت و مسیر را تمرین کردی."},
+        {"say": "Wähle drei Sätze und benutze sie heute als eigene Übung.", "fa": "سه جمله را انتخاب و تمرین کن."},
+        {"say": "Schreibe in die Kommentare: Ich hätte gern, und ergänze deine Bestellung.", "show": "Schreibe in die Kommentare: „Ich hätte gern …“ und ergänze deine Bestellung.", "fa": "در کامنت سفارش خودت را بنویس."},
+        {"say": "Abonniere Deutsch mit Farsi für die nächste Lektion.", "fa": "برای درس بعدی سابسکرایب کن."},
+        {"say": "Jeden Tag einen Schritt näher an die deutsche Sprache.", "fa": "هر روز یک قدم به زبان آلمانی نزدیک‌تر."}
+      ]
+    }
+  ]
+}
