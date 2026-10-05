@@ -1,0 +1,98 @@
+[
+  {
+    "de": "München ist eine Stadt in Bayern.",
+    "fa": "مونیخ شهری در بایرن است.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Ich möchte die Altstadt besichtigen.",
+    "fa": "می‌خواهم از بافت قدیمی شهر بازدید کنم.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Wie komme ich zum Marienplatz?",
+    "fa": "چطور به مارین‌پلاتس بروم؟",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Ich gehe im Park spazieren.",
+    "fa": "در پارک قدم می‌زنم.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Wo muss ich aussteigen?",
+    "fa": "کجا باید پیاده شوم؟",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Wo ist die nächste Haltestelle?",
+    "fa": "نزدیک‌ترین ایستگاه کجاست؟",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Eine Brezel, bitte.",
+    "fa": "یک پرتزل، لطفاً.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Ich interessiere mich für Technik.",
+    "fa": "به فناوری علاقه دارم.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Was studierst du?",
+    "fa": "چه رشته‌ای می‌خوانی؟",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Ich studiere Bauingenieurwesen.",
+    "fa": "مهندسی عمران می‌خوانم.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Zuerst gehe ich zum Marienplatz.",
+    "fa": "اول به مارین‌پلاتس می‌روم.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  },
+  {
+    "de": "Danach gehe ich in den Park.",
+    "fa": "سپس به پارک می‌روم.",
+    "normal_length_scale": 1.15,
+    "slow_length_scale": 1.6,
+    "learner_pause_seconds": 4,
+    "placement": "At matching teaching scene; replace duplicate isolated cue if already voiced, do not cut explanation"
+  }
+]

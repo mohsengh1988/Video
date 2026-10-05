@@ -1,0 +1,27 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link rel="stylesheet" href="style.css"><script src="lib.js"></script>
+<style>
+#t{position:relative;width:1280px;height:720px;overflow:hidden;background:var(--cream)}
+.blob{position:absolute;border-radius:50%;background:var(--blue2);opacity:.55}
+.ph{position:absolute;right:48px;top:48px;width:560px;height:624px;border-radius:36px;overflow:hidden;box-shadow:0 24px 50px rgba(60,40,15,.25)}
+.ph img{width:100%;height:100%;object-fit:cover;object-position:58% 50%}
+.fa{position:absolute;left:56px;top:128px;width:560px;font-family:Lalezar;font-size:96px;line-height:1.1;color:var(--navy);text-align:right;direction:rtl}
+.fa .mk{position:relative;display:inline-block;z-index:0}.fa .mk i{position:absolute;left:-8px;right:-8px;bottom:.12em;height:.32em;background:var(--blue);z-index:-1;border-radius:8px}
+.de{position:absolute;left:60px;top:476px;font-family:Inter;font-weight:850;font-size:54px;letter-spacing:-.04em;color:var(--navy);line-height:1.02}
+.lv{position:absolute;left:60px;top:72px;font-family:Inter;font-weight:800;font-size:30px;color:#FFFBF3;background:var(--navy);border-radius:999px;padding:10px 24px 12px}
+#logo{left:60px;bottom:50px}
+.bub{position:absolute;right:420px;top:470px;background:var(--paper);border-radius:28px;border-bottom-right-radius:8px;padding:14px 24px 18px;font-family:Inter;font-weight:850;font-size:34px;letter-spacing:-.03em;box-shadow:0 14px 30px rgba(40,25,10,.22);display:none}
+</style></head><body>
+<div id="t">
+ <div class="blob" style="left:-120px;top:-160px;width:460px;height:460px"></div>
+ <div class="ph"><img src="../assets/marienplatz.jpg"></div>
+ <div class="lv">A2 · Kultur · Monatsfolge</div>
+ <div class="fa"><span class="mk"><i></i>مونیخ</span>،<br>فراتر از<br>اکتبرفست</div>
+ <div class="de">München &amp;<br>Bayern entdecken</div>
+ <div class="logo" id="logo"></div>
+</div>
+<script>
+document.getElementById('logo').innerHTML = DMF.logo();
+(async () => { await document.querySelector('img').decode(); await document.fonts.load('400 100px Lalezar', 'صبح'); await document.fonts.ready; window.__ready = true; })();
+</script>
+</body></html>

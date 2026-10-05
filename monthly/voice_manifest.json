@@ -1,0 +1,2745 @@
+{
+ "voice": "Piper TTS, de-thorsten-low (de, 16 kHz, 1 speaker), resampled to 48 kHz",
+ "model_card": "voice/MODEL_CARD",
+ "length_scales": {
+  "explain": 1.12,
+  "learn": 1.15,
+  "slow": 1.6
+ },
+ "learner_pause_seconds": 4.0,
+ "total_duration": 993.055,
+ "repetitions": [
+  {
+   "scene": "monthly_03",
+   "cue": 7,
+   "kind": "slow_repeat",
+   "text": "München ist eine Stadt in Bayern.",
+   "length_scale": 1.6,
+   "start": 66.19,
+   "duration": 2.011,
+   "file": "voice/cache/acd5966b97be5c8e.wav"
+  },
+  {
+   "scene": "monthly_05",
+   "cue": 3,
+   "kind": "slow_repeat",
+   "text": "Entschuldigung, wie komme ich zum Marienplatz?",
+   "length_scale": 1.6,
+   "start": 114.135,
+   "duration": 3.193,
+   "file": "voice/cache/b413676e1d41c8df.wav"
+  },
+  {
+   "scene": "monthly_08",
+   "cue": 7,
+   "kind": "slow_repeat",
+   "text": "Ich möchte die Altstadt besichtigen.",
+   "length_scale": 1.6,
+   "start": 204.289,
+   "duration": 2.216,
+   "file": "voice/cache/5688b5c5e1f35889.wav"
+  },
+  {
+   "scene": "monthly_11",
+   "cue": 6,
+   "kind": "slow_repeat",
+   "text": "Ich gehe im Park spazieren.",
+   "length_scale": 1.6,
+   "start": 281.913,
+   "duration": 1.83,
+   "file": "voice/cache/40233a7faae9f126.wav"
+  },
+  {
+   "scene": "monthly_13",
+   "cue": 5,
+   "kind": "slow_repeat",
+   "text": "Wo muss ich aussteigen?",
+   "length_scale": 1.6,
+   "start": 336.779,
+   "duration": 1.35,
+   "file": "voice/cache/494c5902de9b88c9.wav"
+  },
+  {
+   "scene": "monthly_14",
+   "cue": 4,
+   "kind": "slow_repeat",
+   "text": "Wo ist die nächste Haltestelle?",
+   "length_scale": 1.6,
+   "start": 360.101,
+   "duration": 1.476,
+   "file": "voice/cache/cbbb529cf2523b26.wav"
+  },
+  {
+   "scene": "monthly_16",
+   "cue": 7,
+   "kind": "slow_repeat",
+   "text": "Eine Brezel, bitte.",
+   "length_scale": 1.6,
+   "start": 463.292,
+   "duration": 1.626,
+   "file": "voice/cache/4f5c07d75eb56f7a.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 7,
+   "kind": "slow_repeat",
+   "text": "Ich interessiere mich für Technik.",
+   "length_scale": 1.6,
+   "start": 556.974,
+   "duration": 1.78,
+   "file": "voice/cache/ff9b8a20450f629c.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 4,
+   "kind": "slow_repeat",
+   "text": "Was studierst du?",
+   "length_scale": 1.6,
+   "start": 585.073,
+   "duration": 0.84,
+   "file": "voice/cache/f4c7d9757d93cea6.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 6,
+   "kind": "slow_repeat",
+   "text": "Ich studiere Bauingenieurwesen.",
+   "length_scale": 1.6,
+   "start": 594.427,
+   "duration": 2.009,
+   "file": "voice/cache/bc636a53dee83561.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 4,
+   "kind": "slow_repeat",
+   "text": "Zuerst gehe ich zum Marienplatz.",
+   "length_scale": 1.6,
+   "start": 687.775,
+   "duration": 2.143,
+   "file": "voice/cache/a721f68edf144b7b.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 5,
+   "kind": "slow_repeat",
+   "text": "Danach gehe ich in den Park.",
+   "length_scale": 1.6,
+   "start": 696.676,
+   "duration": 1.565,
+   "file": "voice/cache/adffc71457208988.wav"
+  }
+ ],
+ "clips": [
+  {
+   "scene": "monthly_01",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Wenn du München hörst, denkst du vielleicht zuerst an das Oktoberfest.",
+   "length_scale": 1.12,
+   "start": 0.9,
+   "duration": 3.333,
+   "file": "voice/cache/6cd774a6ab0e530a.wav"
+  },
+  {
+   "scene": "monthly_01",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Aber eine Stadt ist mehr als ihr bekanntestes Fest.",
+   "length_scale": 1.12,
+   "start": 4.833,
+   "duration": 2.398,
+   "file": "voice/cache/b6aa76e53d0786e9.wav"
+  },
+  {
+   "scene": "monthly_01",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Heute entdecken wir München und Bayern durch Bilder, kurze Geschichten und einfache deutsche Sätze.",
+   "length_scale": 1.12,
+   "start": 7.832,
+   "duration": 5.127,
+   "file": "voice/cache/40ca8cb984df0a56.wav"
+  },
+  {
+   "scene": "monthly_01",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Du lernst nicht nur Ortsnamen.",
+   "length_scale": 1.12,
+   "start": 13.559,
+   "duration": 1.501,
+   "file": "voice/cache/23015004adf3b30a.wav"
+  },
+  {
+   "scene": "monthly_01",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Du lernst auch, wie du über eine Stadt sprechen und nach dem Weg fragen kannst.",
+   "length_scale": 1.12,
+   "start": 15.66,
+   "duration": 4.244,
+   "file": "voice/cache/a1eb6c1ea6d68466.wav"
+  },
+  {
+   "scene": "monthly_02",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Zuerst ordnen wir die Namen.",
+   "length_scale": 1.12,
+   "start": 21.905,
+   "duration": 1.427,
+   "file": "voice/cache/b370f366a7c46882.wav"
+  },
+  {
+   "scene": "monthly_02",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Deutschland ist das Land.",
+   "length_scale": 1.12,
+   "start": 23.931,
+   "duration": 1.219,
+   "file": "voice/cache/d5d2c093d6bc6575.wav"
+  },
+  {
+   "scene": "monthly_02",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Bayern ist ein Bundesland.",
+   "length_scale": 1.12,
+   "start": 25.75,
+   "duration": 1.46,
+   "file": "voice/cache/8cd83642e16d3822.wav"
+  },
+  {
+   "scene": "monthly_02",
+   "cue": 3,
+   "kind": "normal",
+   "text": "München ist eine Stadt und die Landeshauptstadt von Bayern.",
+   "length_scale": 1.12,
+   "start": 27.81,
+   "duration": 2.976,
+   "file": "voice/cache/d620dcc423611ba7.wav"
+  },
+  {
+   "scene": "monthly_02",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Stelle dir drei Ebenen vor: Deutschland, Bayern, München.",
+   "length_scale": 1.12,
+   "start": 31.386,
+   "duration": 3.625,
+   "file": "voice/cache/df95cfd8ab26d762.wav"
+  },
+  {
+   "scene": "monthly_02",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Diese Begriffe sind nicht austauschbar.",
+   "length_scale": 1.12,
+   "start": 35.611,
+   "duration": 1.801,
+   "file": "voice/cache/5d885ae1f91dba3f.wav"
+  },
+  {
+   "scene": "monthly_02",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Wenn jemand in München wohnt, wohnt diese Person auch in Bayern und in Deutschland.",
+   "length_scale": 1.12,
+   "start": 38.013,
+   "duration": 4.576,
+   "file": "voice/cache/d652a0f563160a8b.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Unsere ersten Wörter sind: das Land, das Bundesland und die Stadt.",
+   "length_scale": 1.12,
+   "start": 44.588,
+   "duration": 3.771,
+   "file": "voice/cache/cc7b4cf88f254286.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Wiederhole mit Artikel.",
+   "length_scale": 1.12,
+   "start": 48.959,
+   "duration": 1.154,
+   "file": "voice/cache/092a151afdc5362e.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Das Land.",
+   "length_scale": 1.12,
+   "start": 50.913,
+   "duration": 0.554,
+   "file": "voice/cache/edcac3ea52fb0d36.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Das Bundesland.",
+   "length_scale": 1.12,
+   "start": 53.867,
+   "duration": 0.871,
+   "file": "voice/cache/6ac9c6d84892b82b.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Die Stadt.",
+   "length_scale": 1.12,
+   "start": 57.138,
+   "duration": 0.445,
+   "file": "voice/cache/faa61099af684016.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Der Artikel gehört zum Wort.",
+   "length_scale": 1.12,
+   "start": 59.983,
+   "duration": 1.439,
+   "file": "voice/cache/1c605702fc774dd1.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Unser Beispielsatz lautet:",
+   "length_scale": 1.12,
+   "start": 62.022,
+   "duration": 1.438,
+   "file": "voice/cache/b9222d0fd360deac.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 7,
+   "kind": "normal",
+   "text": "München ist eine Stadt in Bayern.",
+   "length_scale": 1.15,
+   "start": 63.76,
+   "duration": 1.73,
+   "file": "voice/cache/ac9fde449eb7173b.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 7,
+   "kind": "slow_repeat",
+   "text": "München ist eine Stadt in Bayern.",
+   "length_scale": 1.6,
+   "start": 66.19,
+   "duration": 2.011,
+   "file": "voice/cache/acd5966b97be5c8e.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 8,
+   "kind": "normal",
+   "text": "Auf der Grafik siehst du nur eine schematische Orientierung.",
+   "length_scale": 1.12,
+   "start": 72.802,
+   "duration": 3.179,
+   "file": "voice/cache/f21937c00ed54b60.wav"
+  },
+  {
+   "scene": "monthly_03",
+   "cue": 9,
+   "kind": "normal",
+   "text": "Sie ist keine Karte mit genauen Grenzen.",
+   "length_scale": 1.12,
+   "start": 76.581,
+   "duration": 2.093,
+   "file": "voice/cache/4991f9a964a2aee7.wav"
+  },
+  {
+   "scene": "monthly_04",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Bayern besteht nicht nur aus München.",
+   "length_scale": 1.12,
+   "start": 80.674,
+   "duration": 1.798,
+   "file": "voice/cache/0960da62c114ad4b.wav"
+  },
+  {
+   "scene": "monthly_04",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Auf unserer Wortkarte stehen zum Beispiel Nürnberg, Augsburg und Regensburg.",
+   "length_scale": 1.12,
+   "start": 83.072,
+   "duration": 5.038,
+   "file": "voice/cache/e6046f6be40e9050.wav"
+  },
+  {
+   "scene": "monthly_04",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Es gibt verschiedene Städte, Landschaften und regionale Traditionen.",
+   "length_scale": 1.12,
+   "start": 88.709,
+   "duration": 3.985,
+   "file": "voice/cache/7c06c913f440d2a7.wav"
+  },
+  {
+   "scene": "monthly_04",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Deshalb sagen wir nicht: Alle Menschen in Bayern leben gleich.",
+   "length_scale": 1.12,
+   "start": 93.295,
+   "duration": 3.242,
+   "file": "voice/cache/017382dd865123ab.wav"
+  },
+  {
+   "scene": "monthly_04",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Eine Region hat viele Perspektiven.",
+   "length_scale": 1.12,
+   "start": 97.137,
+   "duration": 2.013,
+   "file": "voice/cache/7541a15aa3ef34f0.wav"
+  },
+  {
+   "scene": "monthly_04",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Heute ist München unser Ausgangspunkt, nicht die ganze Geschichte Bayerns.",
+   "length_scale": 1.12,
+   "start": 99.749,
+   "duration": 3.594,
+   "file": "voice/cache/7f6fd7aed0c17df5.wav"
+  },
+  {
+   "scene": "monthly_05",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Stell dir vor, du kommst in München an.",
+   "length_scale": 1.12,
+   "start": 105.343,
+   "duration": 1.964,
+   "file": "voice/cache/64f8ab27e07ad707.wav"
+  },
+  {
+   "scene": "monthly_05",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Du möchtest ins Zentrum.",
+   "length_scale": 1.12,
+   "start": 107.907,
+   "duration": 1.305,
+   "file": "voice/cache/18729a633e8ab972.wav"
+  },
+  {
+   "scene": "monthly_05",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Du kannst fragen:",
+   "length_scale": 1.12,
+   "start": 109.812,
+   "duration": 0.838,
+   "file": "voice/cache/ef17a0abc74ad72e.wav"
+  },
+  {
+   "scene": "monthly_05",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Entschuldigung, wie komme ich zum Marienplatz?",
+   "length_scale": 1.15,
+   "start": 110.951,
+   "duration": 2.484,
+   "file": "voice/cache/a7b514ac4c3dd851.wav"
+  },
+  {
+   "scene": "monthly_05",
+   "cue": 3,
+   "kind": "slow_repeat",
+   "text": "Entschuldigung, wie komme ich zum Marienplatz?",
+   "length_scale": 1.6,
+   "start": 114.135,
+   "duration": 3.193,
+   "file": "voice/cache/b413676e1d41c8df.wav"
+  },
+  {
+   "scene": "monthly_05",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Wir geben hier keine konkrete Verbindung und keinen Fahrpreis an.",
+   "length_scale": 1.12,
+   "start": 122.078,
+   "duration": 3.508,
+   "file": "voice/cache/c17370af8acf37fa.wav"
+  },
+  {
+   "scene": "monthly_05",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Beides musst du für deinen tatsächlichen Reisetag prüfen.",
+   "length_scale": 1.12,
+   "start": 126.186,
+   "duration": 2.746,
+   "file": "voice/cache/74e6b00fa4eb29f2.wav"
+  },
+  {
+   "scene": "monthly_05",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Heute lernen wir die Frage, mit der du Informationen bekommen kannst.",
+   "length_scale": 1.12,
+   "start": 129.532,
+   "duration": 3.312,
+   "file": "voice/cache/2a618161da2d3370.wav"
+  },
+  {
+   "scene": "monthly_06",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Der Marienplatz liegt im Zentrum der Münchner Altstadt.",
+   "length_scale": 1.12,
+   "start": 134.843,
+   "duration": 2.85,
+   "file": "voice/cache/03bc000bf616dcc6.wav"
+  },
+  {
+   "scene": "monthly_06",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Schon seit der Stadtgründung im Jahr elfhundertachtundfünfzig ist dieser Platz ein wichtiger Mittelpunkt.",
+   "length_scale": 1.12,
+   "start": 138.293,
+   "duration": 5.622,
+   "file": "voice/cache/f631b558fd7c2dab.wav"
+  },
+  {
+   "scene": "monthly_06",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Auf unserem Foto siehst du einen Ausschnitt des Platzes und seiner Gebäude.",
+   "length_scale": 1.12,
+   "start": 144.516,
+   "duration": 3.618,
+   "file": "voice/cache/397fb4f8978f820f.wav"
+  },
+  {
+   "scene": "monthly_06",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Schau auf die Architektur.",
+   "length_scale": 1.12,
+   "start": 148.734,
+   "duration": 1.43,
+   "file": "voice/cache/e58a1647d5999844.wav"
+  },
+  {
+   "scene": "monthly_06",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Welche Formen erkennst du?",
+   "length_scale": 1.12,
+   "start": 150.764,
+   "duration": 1.272,
+   "file": "voice/cache/9d87aca29df7762f.wav"
+  },
+  {
+   "scene": "monthly_06",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Türme, Fenster, Fassaden und ein offener Platz.",
+   "length_scale": 1.12,
+   "start": 152.786,
+   "duration": 3.403,
+   "file": "voice/cache/7db523d720cf7051.wav"
+  },
+  {
+   "scene": "monthly_06",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Mit Artikel: der Turm, das Fenster, die Fassade, der Platz.",
+   "length_scale": 1.12,
+   "start": 156.789,
+   "duration": 3.95,
+   "file": "voice/cache/465c812f33782ad3.wav"
+  },
+  {
+   "scene": "monthly_07",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Ein Foto zeigt einen bestimmten Moment.",
+   "length_scale": 1.12,
+   "start": 162.74,
+   "duration": 2.05,
+   "file": "voice/cache/7366073e87b42180.wav"
+  },
+  {
+   "scene": "monthly_07",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Es zeigt nicht, wie der Platz jeden Tag aussieht.",
+   "length_scale": 1.12,
+   "start": 165.389,
+   "duration": 2.552,
+   "file": "voice/cache/a9b1e5bcdd4b286c.wav"
+  },
+  {
+   "scene": "monthly_07",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Unser Bild wurde am Abend aufgenommen.",
+   "length_scale": 1.12,
+   "start": 168.541,
+   "duration": 2.014,
+   "file": "voice/cache/82b0aff44581a12b.wav"
+  },
+  {
+   "scene": "monthly_07",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Die Stimmung entsteht durch Licht und Perspektive.",
+   "length_scale": 1.12,
+   "start": 171.155,
+   "duration": 2.521,
+   "file": "voice/cache/1c8272d159c11e57.wav"
+  },
+  {
+   "scene": "monthly_07",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Wenn du später selbst Bilder auswählst, frage immer: Was zeigt das Foto wirklich?",
+   "length_scale": 1.12,
+   "start": 174.276,
+   "duration": 4.741,
+   "file": "voice/cache/5e303c8bf941252f.wav"
+  },
+  {
+   "scene": "monthly_07",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Und welche Information ergänze ich nur mit meinem Text?",
+   "length_scale": 1.12,
+   "start": 179.766,
+   "duration": 2.554,
+   "file": "voice/cache/c68a9ed4f8b293f5.wav"
+  },
+  {
+   "scene": "monthly_08",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Die Altstadt ist der historische Teil einer Stadt.",
+   "length_scale": 1.12,
+   "start": 184.32,
+   "duration": 2.453,
+   "file": "voice/cache/308f4702bfe8d33a.wav"
+  },
+  {
+   "scene": "monthly_08",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Ein wichtiger Ausdruck lautet: die Sehenswürdigkeit.",
+   "length_scale": 1.12,
+   "start": 187.373,
+   "duration": 2.764,
+   "file": "voice/cache/b8174b1035e44557.wav"
+  },
+  {
+   "scene": "monthly_08",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Das ist ein Ort oder ein Objekt, das Besucher interessant finden.",
+   "length_scale": 1.12,
+   "start": 190.737,
+   "duration": 3.393,
+   "file": "voice/cache/3dd08d21769a8375.wav"
+  },
+  {
+   "scene": "monthly_08",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Unser Satz:",
+   "length_scale": 1.12,
+   "start": 194.731,
+   "duration": 0.613,
+   "file": "voice/cache/c41f4e4037b3f62c.wav"
+  },
+  {
+   "scene": "monthly_08",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Ich möchte die Altstadt besichtigen.",
+   "length_scale": 1.12,
+   "start": 195.644,
+   "duration": 1.547,
+   "file": "voice/cache/ec3f6ba04eed9d53.wav"
+  },
+  {
+   "scene": "monthly_08",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Besichtigen bedeutet, einen Ort bewusst anzusehen.",
+   "length_scale": 1.12,
+   "start": 197.79,
+   "duration": 2.606,
+   "file": "voice/cache/9eec9cb0bdbc1eac.wav"
+  },
+  {
+   "scene": "monthly_08",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Wiederhole:",
+   "length_scale": 1.12,
+   "start": 200.996,
+   "duration": 0.599,
+   "file": "voice/cache/e855610c16940b52.wav"
+  },
+  {
+   "scene": "monthly_08",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Ich möchte die Altstadt besichtigen.",
+   "length_scale": 1.15,
+   "start": 201.896,
+   "duration": 1.693,
+   "file": "voice/cache/43ba61aa69ec05e0.wav"
+  },
+  {
+   "scene": "monthly_08",
+   "cue": 7,
+   "kind": "slow_repeat",
+   "text": "Ich möchte die Altstadt besichtigen.",
+   "length_scale": 1.6,
+   "start": 204.289,
+   "duration": 2.216,
+   "file": "voice/cache/5688b5c5e1f35889.wav"
+  },
+  {
+   "scene": "monthly_09",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Wir üben eine kurze Szene.",
+   "length_scale": 1.12,
+   "start": 212.504,
+   "duration": 1.245,
+   "file": "voice/cache/62a580dfe786f2d9.wav"
+  },
+  {
+   "scene": "monthly_09",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Entschuldigung, wie komme ich zum Marienplatz?",
+   "length_scale": 1.12,
+   "start": 214.549,
+   "duration": 2.465,
+   "file": "voice/cache/9643c8f70e002e2d.wav"
+  },
+  {
+   "scene": "monthly_09",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Gehen Sie geradeaus und dann links.",
+   "length_scale": 1.12,
+   "start": 217.763,
+   "duration": 1.817,
+   "file": "voice/cache/2c8d00e701ddf9e8.wav"
+  },
+  {
+   "scene": "monthly_09",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Vielen Dank!",
+   "length_scale": 1.12,
+   "start": 220.33,
+   "duration": 0.647,
+   "file": "voice/cache/38aa308ef00d010a.wav"
+  },
+  {
+   "scene": "monthly_09",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Die Antwort ist ein erfundenes Lernbeispiel, keine echte Wegbeschreibung.",
+   "length_scale": 1.12,
+   "start": 221.877,
+   "duration": 4.243,
+   "file": "voice/cache/3fd5cc8d3b66dff5.wav"
+  },
+  {
+   "scene": "monthly_09",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Versuche jetzt selbst die Frage.",
+   "length_scale": 1.12,
+   "start": 226.72,
+   "duration": 1.663,
+   "file": "voice/cache/f42e4f1f549b31c2.wav"
+  },
+  {
+   "scene": "monthly_09",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Ersetze den Marienplatz durch den Bahnhof.",
+   "length_scale": 1.12,
+   "start": 228.982,
+   "duration": 2.179,
+   "file": "voice/cache/c0a0e9df8dd09cc2.wav"
+  },
+  {
+   "scene": "monthly_09",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Wie komme ich zum Bahnhof?",
+   "length_scale": 1.12,
+   "start": 237.162,
+   "duration": 1.063,
+   "file": "voice/cache/ff24295491def042.wav"
+  },
+  {
+   "scene": "monthly_10",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Nach den Straßen wechseln wir in eine grüne Umgebung.",
+   "length_scale": 1.12,
+   "start": 240.225,
+   "duration": 2.772,
+   "file": "voice/cache/ecebe7f66bf77fae.wav"
+  },
+  {
+   "scene": "monthly_10",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Der Englische Garten ist ein großer Park in München.",
+   "length_scale": 1.12,
+   "start": 243.596,
+   "duration": 2.767,
+   "file": "voice/cache/13c8ac50a873225a.wav"
+  },
+  {
+   "scene": "monthly_10",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Das Foto zeigt den Monopteros, einen kleinen Rundbau mit Säulen auf einem Hügel.",
+   "length_scale": 1.12,
+   "start": 246.963,
+   "duration": 4.618,
+   "file": "voice/cache/f766b71d6384ec2b.wav"
+  },
+  {
+   "scene": "monthly_10",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Wir betrachten ihn als Teil der Landschaft.",
+   "length_scale": 1.12,
+   "start": 252.181,
+   "duration": 2.231,
+   "file": "voice/cache/14704dc89d68ff45.wav"
+  },
+  {
+   "scene": "monthly_10",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Stadtleben bedeutet hier nicht nur Gebäude: Es gibt auch Wege, Bäume und Plätze zum Verweilen.",
+   "length_scale": 1.12,
+   "start": 255.012,
+   "duration": 5.037,
+   "file": "voice/cache/81337eaf6d8d9143.wav"
+  },
+  {
+   "scene": "monthly_11",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Ein passender Ausdruck ist: spazieren gehen.",
+   "length_scale": 1.12,
+   "start": 262.049,
+   "duration": 2.396,
+   "file": "voice/cache/f32db9b7ab823997.wav"
+  },
+  {
+   "scene": "monthly_11",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Du gehst ohne Eile und genießt die Umgebung.",
+   "length_scale": 1.12,
+   "start": 265.045,
+   "duration": 2.296,
+   "file": "voice/cache/56cfcd521cc7b840.wav"
+  },
+  {
+   "scene": "monthly_11",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Unser Satz lautet: Ich gehe im Park spazieren.",
+   "length_scale": 1.12,
+   "start": 267.941,
+   "duration": 2.605,
+   "file": "voice/cache/512e77772cf76004.wav"
+  },
+  {
+   "scene": "monthly_11",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Im ist hier die Verbindung von in und dem.",
+   "length_scale": 1.12,
+   "start": 271.146,
+   "duration": 1.831,
+   "file": "voice/cache/f49b5aaa2f131392.wav"
+  },
+  {
+   "scene": "monthly_11",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Für den Anfang kannst du den Satz als Ganzes lernen.",
+   "length_scale": 1.12,
+   "start": 273.577,
+   "duration": 2.281,
+   "file": "voice/cache/de52a7eee3fd6d2e.wav"
+  },
+  {
+   "scene": "monthly_11",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Sage ihn zuerst normal und dann noch einmal langsam.",
+   "length_scale": 1.12,
+   "start": 276.459,
+   "duration": 2.837,
+   "file": "voice/cache/05ad6c81dce9d30c.wav"
+  },
+  {
+   "scene": "monthly_11",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Ich gehe im Park spazieren.",
+   "length_scale": 1.15,
+   "start": 279.896,
+   "duration": 1.317,
+   "file": "voice/cache/ca704a33fc3daed9.wav"
+  },
+  {
+   "scene": "monthly_11",
+   "cue": 6,
+   "kind": "slow_repeat",
+   "text": "Ich gehe im Park spazieren.",
+   "length_scale": 1.6,
+   "start": 281.913,
+   "duration": 1.83,
+   "file": "voice/cache/40233a7faae9f126.wav"
+  },
+  {
+   "scene": "monthly_12",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Welche Umgebung magst du lieber: einen belebten Platz oder einen ruhigen Park?",
+   "length_scale": 1.12,
+   "start": 289.743,
+   "duration": 3.96,
+   "file": "voice/cache/36f88aed9c18be2b.wav"
+  },
+  {
+   "scene": "monthly_12",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Du kannst sagen: Ich mag die Altstadt.",
+   "length_scale": 1.12,
+   "start": 294.453,
+   "duration": 1.828,
+   "file": "voice/cache/81df5b7ec3a5f86c.wav"
+  },
+  {
+   "scene": "monthly_12",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Oder: Ich mag den Park.",
+   "length_scale": 1.12,
+   "start": 296.881,
+   "duration": 1.498,
+   "file": "voice/cache/2b1bef45f5ef4ed6.wav"
+  },
+  {
+   "scene": "monthly_12",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Beides ist richtig, aber der Artikel verändert sich.",
+   "length_scale": 1.12,
+   "start": 298.979,
+   "duration": 2.482,
+   "file": "voice/cache/9f275e8ddda30217.wav"
+  },
+  {
+   "scene": "monthly_12",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Schreibe einen eigenen Satz.",
+   "length_scale": 1.12,
+   "start": 302.062,
+   "duration": 1.418,
+   "file": "voice/cache/5419c648319f618b.wav"
+  },
+  {
+   "scene": "monthly_12",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Der Inhalt soll deine Meinung ausdrücken, keine angebliche Meinung aller Menschen in München.",
+   "length_scale": 1.12,
+   "start": 310.48,
+   "duration": 4.712,
+   "file": "voice/cache/569b99b48cb98871.wav"
+  },
+  {
+   "scene": "monthly_13",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Auf diesem Foto siehst du den Innenraum einer Münchner U-Bahn.",
+   "length_scale": 1.12,
+   "start": 317.192,
+   "duration": 3.177,
+   "file": "voice/cache/0d159d9b866d1373.wav"
+  },
+  {
+   "scene": "monthly_13",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Menschen nutzen unterschiedliche Verkehrsmittel: Sie gehen zu Fuß, fahren Fahrrad oder nutzen Bus und Bahn.",
+   "length_scale": 1.12,
+   "start": 320.969,
+   "duration": 6.239,
+   "file": "voice/cache/6a3ecf4cb363c07c.wav"
+  },
+  {
+   "scene": "monthly_13",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Wir behaupten nicht, dass jeder denselben Weg hat.",
+   "length_scale": 1.12,
+   "start": 327.808,
+   "duration": 2.378,
+   "file": "voice/cache/768498272212c73e.wav"
+  },
+  {
+   "scene": "monthly_13",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Für unsere Sprachübung reicht: Ich fahre mit der U-Bahn.",
+   "length_scale": 1.12,
+   "start": 330.785,
+   "duration": 2.884,
+   "file": "voice/cache/153b2d2094880faa.wav"
+  },
+  {
+   "scene": "monthly_13",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Und:",
+   "length_scale": 1.12,
+   "start": 334.269,
+   "duration": 0.309,
+   "file": "voice/cache/f159e59bdc4e9a41.wav"
+  },
+  {
+   "scene": "monthly_13",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Wo muss ich aussteigen?",
+   "length_scale": 1.15,
+   "start": 334.878,
+   "duration": 1.202,
+   "file": "voice/cache/12f1e5b44eabf0ff.wav"
+  },
+  {
+   "scene": "monthly_13",
+   "cue": 5,
+   "kind": "slow_repeat",
+   "text": "Wo muss ich aussteigen?",
+   "length_scale": 1.6,
+   "start": 336.779,
+   "duration": 1.35,
+   "file": "voice/cache/494c5902de9b88c9.wav"
+  },
+  {
+   "scene": "monthly_14",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Lerne die Wörter mit Artikel: die U-Bahn, der Bus, das Fahrrad und der Bahnhof.",
+   "length_scale": 1.12,
+   "start": 344.129,
+   "duration": 4.862,
+   "file": "voice/cache/c9ef5432ccbe6f11.wav"
+  },
+  {
+   "scene": "monthly_14",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Ein Bahnhof ist ein Ort, kein Verkehrsmittel.",
+   "length_scale": 1.12,
+   "start": 349.591,
+   "duration": 2.633,
+   "file": "voice/cache/4ad64c43608ba1ca.wav"
+  },
+  {
+   "scene": "monthly_14",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Eine Haltestelle ist ein Ort, an dem ein Verkehrsmittel hält.",
+   "length_scale": 1.12,
+   "start": 352.825,
+   "duration": 3.203,
+   "file": "voice/cache/b0c351d440a9b1b4.wav"
+  },
+  {
+   "scene": "monthly_14",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Unsere Frage lautet:",
+   "length_scale": 1.12,
+   "start": 356.627,
+   "duration": 1.086,
+   "file": "voice/cache/c51db95e209c57a3.wav"
+  },
+  {
+   "scene": "monthly_14",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Wo ist die nächste Haltestelle?",
+   "length_scale": 1.15,
+   "start": 358.013,
+   "duration": 1.388,
+   "file": "voice/cache/f33d455faef0ab7f.wav"
+  },
+  {
+   "scene": "monthly_14",
+   "cue": 4,
+   "kind": "slow_repeat",
+   "text": "Wo ist die nächste Haltestelle?",
+   "length_scale": 1.6,
+   "start": 360.101,
+   "duration": 1.476,
+   "file": "voice/cache/cbbb529cf2523b26.wav"
+  },
+  {
+   "scene": "monthly_14",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Höre die Betonung und wiederhole den Satz in deinem eigenen Tempo.",
+   "length_scale": 1.12,
+   "start": 366.327,
+   "duration": 3.405,
+   "file": "voice/cache/8e6d9cab5a66605d.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Zeit für einen kurzen Zwischenstopp.",
+   "length_scale": 1.12,
+   "start": 371.731,
+   "duration": 1.539,
+   "file": "voice/cache/bdf9face3bdb4332.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Du siehst einen Satz auf Persisch. Sage ihn auf Deutsch, bevor du die Antwort hörst.",
+   "length_scale": 1.12,
+   "start": 373.87,
+   "duration": 4.454,
+   "file": "voice/cache/dc057c32d7f36a90.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Erstens.",
+   "length_scale": 1.12,
+   "start": 379.124,
+   "duration": 0.527,
+   "file": "voice/cache/1ae489894820d87e.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 3,
+   "kind": "normal",
+   "text": "München ist eine Stadt in Bayern.",
+   "length_scale": 1.12,
+   "start": 385.651,
+   "duration": 1.715,
+   "file": "voice/cache/ec1615541a724243.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Zweitens.",
+   "length_scale": 1.12,
+   "start": 388.266,
+   "duration": 0.645,
+   "file": "voice/cache/7d0ada60dea584bd.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Ich möchte die Altstadt besichtigen.",
+   "length_scale": 1.12,
+   "start": 394.911,
+   "duration": 1.547,
+   "file": "voice/cache/ec3f6ba04eed9d53.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Drittens.",
+   "length_scale": 1.12,
+   "start": 397.358,
+   "duration": 0.557,
+   "file": "voice/cache/437a4c34853b7cbf.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Ich gehe im Park spazieren.",
+   "length_scale": 1.12,
+   "start": 403.915,
+   "duration": 1.44,
+   "file": "voice/cache/d7335c7add9a430b.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 8,
+   "kind": "normal",
+   "text": "Viertens.",
+   "length_scale": 1.12,
+   "start": 406.256,
+   "duration": 0.566,
+   "file": "voice/cache/b6ebf71852e9ebdb.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 9,
+   "kind": "normal",
+   "text": "Wo ist die nächste Haltestelle?",
+   "length_scale": 1.12,
+   "start": 412.821,
+   "duration": 1.369,
+   "file": "voice/cache/707a5fd839060ff1.wav"
+  },
+  {
+   "scene": "monthly_14x",
+   "cue": 10,
+   "kind": "normal",
+   "text": "Sehr gut. Jetzt geht es weiter mit einem Ort, den du schon kennst: der Bäckerei.",
+   "length_scale": 1.12,
+   "start": 415.09,
+   "duration": 4.462,
+   "file": "voice/cache/5cca80b5a7c084a8.wav"
+  },
+  {
+   "scene": "monthly_15",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Eine Bäckerei kann ein guter Ort für eine kurze Sprachübung sein.",
+   "length_scale": 1.12,
+   "start": 421.552,
+   "duration": 3.454,
+   "file": "voice/cache/e532253fd22f8c8e.wav"
+  },
+  {
+   "scene": "monthly_15",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Unser Foto stammt aus Berlin, nicht aus München.",
+   "length_scale": 1.12,
+   "start": 425.606,
+   "duration": 2.708,
+   "file": "voice/cache/ba1f43982f855a32.wav"
+  },
+  {
+   "scene": "monthly_15",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Wir nutzen es nur als allgemeines Bild einer Bäckerei.",
+   "length_scale": 1.12,
+   "start": 428.914,
+   "duration": 2.838,
+   "file": "voice/cache/0cf2c78c6c3ce3b5.wav"
+  },
+  {
+   "scene": "monthly_15",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Ortsangaben müssen ehrlich bleiben.",
+   "length_scale": 1.12,
+   "start": 432.352,
+   "duration": 1.683,
+   "file": "voice/cache/5c8865886ccd4151.wav"
+  },
+  {
+   "scene": "monthly_15",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Der Satz passt trotzdem: Ich hätte gern eine Brezel, bitte.",
+   "length_scale": 1.12,
+   "start": 434.635,
+   "duration": 2.948,
+   "file": "voice/cache/bdaf1abdb1a342e6.wav"
+  },
+  {
+   "scene": "monthly_15",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Du kennst ihn vielleicht schon aus unserer Alltagslektion.",
+   "length_scale": 1.12,
+   "start": 438.183,
+   "duration": 2.603,
+   "file": "voice/cache/de3e460b9ed434cb.wav"
+  },
+  {
+   "scene": "monthly_16",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Im Standarddeutschen heißt das Wort: die Brezel.",
+   "length_scale": 1.12,
+   "start": 442.786,
+   "duration": 2.551,
+   "file": "voice/cache/b7223601a541add9.wav"
+  },
+  {
+   "scene": "monthly_16",
+   "cue": 1,
+   "kind": "normal",
+   "text": "In Bayern hörst du auch: die Brezn.",
+   "length_scale": 1.12,
+   "start": 445.937,
+   "duration": 1.735,
+   "file": "voice/cache/ee0090008c6f2850.wav"
+  },
+  {
+   "scene": "monthly_16",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Beide Formen gehören in unseren Lernvergleich.",
+   "length_scale": 1.12,
+   "start": 448.272,
+   "duration": 2.475,
+   "file": "voice/cache/113206ebaa4df035.wav"
+  },
+  {
+   "scene": "monthly_16",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Du musst keinen Dialekt nachmachen, um höflich zu bestellen.",
+   "length_scale": 1.12,
+   "start": 451.347,
+   "duration": 2.873,
+   "file": "voice/cache/a7bd90c3dbb57fc3.wav"
+  },
+  {
+   "scene": "monthly_16",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Standarddeutsch ist unser Ausgangspunkt.",
+   "length_scale": 1.12,
+   "start": 454.82,
+   "duration": 2.021,
+   "file": "voice/cache/9d037b5da67d148f.wav"
+  },
+  {
+   "scene": "monthly_16",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Regionale Wörter ergänzen das Bild.",
+   "length_scale": 1.12,
+   "start": 457.441,
+   "duration": 2.053,
+   "file": "voice/cache/724c1500d13386c1.wav"
+  },
+  {
+   "scene": "monthly_16",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Unser Beispielsatz:",
+   "length_scale": 1.12,
+   "start": 460.094,
+   "duration": 0.949,
+   "file": "voice/cache/5e45e0bfccc648af.wav"
+  },
+  {
+   "scene": "monthly_16",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Eine Brezel, bitte.",
+   "length_scale": 1.15,
+   "start": 461.343,
+   "duration": 1.25,
+   "file": "voice/cache/8792f630819402ec.wav"
+  },
+  {
+   "scene": "monthly_16",
+   "cue": 7,
+   "kind": "slow_repeat",
+   "text": "Eine Brezel, bitte.",
+   "length_scale": 1.6,
+   "start": 463.292,
+   "duration": 1.626,
+   "file": "voice/cache/4f5c07d75eb56f7a.wav"
+  },
+  {
+   "scene": "monthly_17",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Traditionen sind ein Teil einer Region, aber keine vollständige Beschreibung aller Menschen.",
+   "length_scale": 1.12,
+   "start": 470.918,
+   "duration": 4.977,
+   "file": "voice/cache/d8e92bcbfecfa72f.wav"
+  },
+  {
+   "scene": "monthly_17",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Nicht jede Person trägt Tracht.",
+   "length_scale": 1.12,
+   "start": 476.495,
+   "duration": 1.5,
+   "file": "voice/cache/3e6ba963de2a47a1.wav"
+  },
+  {
+   "scene": "monthly_17",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Nicht jede Person interessiert sich für dieselben Feste.",
+   "length_scale": 1.12,
+   "start": 478.595,
+   "duration": 2.488,
+   "file": "voice/cache/ba088ab1a8cccf62.wav"
+  },
+  {
+   "scene": "monthly_17",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Wenn wir Kultur erklären, unterscheiden wir zwischen einer Tradition und einer allgemeinen Behauptung.",
+   "length_scale": 1.12,
+   "start": 481.683,
+   "duration": 5.068,
+   "file": "voice/cache/f454fa60d6e2368c.wav"
+  },
+  {
+   "scene": "monthly_17",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Ein guter Satz lautet: Diese Tradition ist in der Region bekannt.",
+   "length_scale": 1.12,
+   "start": 487.351,
+   "duration": 3.797,
+   "file": "voice/cache/060ef93a0a62ac63.wav"
+  },
+  {
+   "scene": "monthly_18",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Vielleicht hörst du in Bayern Servus oder Grüß Gott.",
+   "length_scale": 1.12,
+   "start": 493.148,
+   "duration": 2.736,
+   "file": "voice/cache/cfd386f033c42c46.wav"
+  },
+  {
+   "scene": "monthly_18",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Diese Begrüßungen kommen regional vor.",
+   "length_scale": 1.12,
+   "start": 496.484,
+   "duration": 2.155,
+   "file": "voice/cache/4a04c526df92fa86.wav"
+  },
+  {
+   "scene": "monthly_18",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Du kannst selbst einfach Guten Tag sagen.",
+   "length_scale": 1.12,
+   "start": 499.239,
+   "duration": 2.042,
+   "file": "voice/cache/abc22368fde7c56f.wav"
+  },
+  {
+   "scene": "monthly_18",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Ein Dialekt kann am Anfang ungewohnt klingen.",
+   "length_scale": 1.12,
+   "start": 501.881,
+   "duration": 2.125,
+   "file": "voice/cache/d5559943c20945a1.wav"
+  },
+  {
+   "scene": "monthly_18",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Wenn du etwas nicht verstehst, frage freundlich: Können Sie das bitte wiederholen?",
+   "length_scale": 1.12,
+   "start": 504.606,
+   "duration": 4.199,
+   "file": "voice/cache/38f5dfaa92f6c83f.wav"
+  },
+  {
+   "scene": "monthly_18",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Oder: Können Sie bitte langsamer sprechen?",
+   "length_scale": 1.12,
+   "start": 509.556,
+   "duration": 2.142,
+   "file": "voice/cache/fb21373e27507bc9.wav"
+  },
+  {
+   "scene": "monthly_19",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Jetzt wechseln wir von Alltag und Tradition zur Wirtschaft.",
+   "length_scale": 1.12,
+   "start": 513.698,
+   "duration": 2.921,
+   "file": "voice/cache/8779af9917b0a931.wav"
+  },
+  {
+   "scene": "monthly_19",
+   "cue": 1,
+   "kind": "normal",
+   "text": "BMW hat wichtige Standorte in München, darunter ein Werk und Forschungseinrichtungen.",
+   "length_scale": 1.12,
+   "start": 517.219,
+   "duration": 4.955,
+   "file": "voice/cache/cb6f6eebc3edd1f5.wav"
+  },
+  {
+   "scene": "monthly_19",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Das Foto zeigt das Gebäude der Unternehmenszentrale.",
+   "length_scale": 1.12,
+   "start": 522.774,
+   "duration": 2.946,
+   "file": "voice/cache/0d8613637900917e.wav"
+  },
+  {
+   "scene": "monthly_19",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Wir zeigen es als Beispiel für Industrie und Architektur.",
+   "length_scale": 1.12,
+   "start": 526.32,
+   "duration": 3.257,
+   "file": "voice/cache/21520fc552786ae0.wav"
+  },
+  {
+   "scene": "monthly_19",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Es ist keine Werbung und bedeutet keine Unterstützung unseres Kanals durch das Unternehmen.",
+   "length_scale": 1.12,
+   "start": 530.177,
+   "duration": 4.98,
+   "file": "voice/cache/9a92d3f0d6545758.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Die Industrie.",
+   "length_scale": 1.12,
+   "start": 537.156,
+   "duration": 0.738,
+   "file": "voice/cache/68543df961dce70f.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Das Unternehmen.",
+   "length_scale": 1.12,
+   "start": 538.795,
+   "duration": 0.924,
+   "file": "voice/cache/153f828d24b0f160.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Die Forschung.",
+   "length_scale": 1.12,
+   "start": 540.619,
+   "duration": 0.693,
+   "file": "voice/cache/4574d0d03024de00.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Das sind drei neue Wörter.",
+   "length_scale": 1.12,
+   "start": 542.212,
+   "duration": 1.215,
+   "file": "voice/cache/39f15f8a051d31f3.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Ein Unternehmen ist eine Organisation, die wirtschaftlich tätig ist.",
+   "length_scale": 1.12,
+   "start": 544.027,
+   "duration": 3.673,
+   "file": "voice/cache/399c3e4dc896b604.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Forschung bedeutet, Fragen systematisch zu untersuchen und neues Wissen zu gewinnen.",
+   "length_scale": 1.12,
+   "start": 548.3,
+   "duration": 4.642,
+   "file": "voice/cache/3082aa1a87de75c5.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Unser Satz lautet:",
+   "length_scale": 1.12,
+   "start": 553.542,
+   "duration": 0.996,
+   "file": "voice/cache/be63c52645dc7120.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Ich interessiere mich für Technik.",
+   "length_scale": 1.15,
+   "start": 554.837,
+   "duration": 1.437,
+   "file": "voice/cache/f22c86a8f9d8d1d2.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 7,
+   "kind": "slow_repeat",
+   "text": "Ich interessiere mich für Technik.",
+   "length_scale": 1.6,
+   "start": 556.974,
+   "duration": 1.78,
+   "file": "voice/cache/ff9b8a20450f629c.wav"
+  },
+  {
+   "scene": "monthly_20",
+   "cue": 8,
+   "kind": "normal",
+   "text": "Du kannst Technik durch Architektur oder Geschichte ersetzen.",
+   "length_scale": 1.12,
+   "start": 563.354,
+   "duration": 3.261,
+   "file": "voice/cache/d60e04fe6ea4116b.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 0,
+   "kind": "normal",
+   "text": "München ist auch ein Ort des Lernens.",
+   "length_scale": 1.12,
+   "start": 568.615,
+   "duration": 1.767,
+   "file": "voice/cache/1c80dac2aca4fee4.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Die Technische Universität München beschäftigt sich unter anderem mit Naturwissenschaften und Ingenieurwissenschaften.",
+   "length_scale": 1.12,
+   "start": 570.982,
+   "duration": 5.646,
+   "file": "voice/cache/5087df34a905bc9a.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Wir nennen sie als ein Beispiel, nicht als vollständige Liste aller Hochschulen.",
+   "length_scale": 1.12,
+   "start": 577.228,
+   "duration": 4.09,
+   "file": "voice/cache/6b18f4d13c3d68e1.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Unsere Sprachfrage lautet:",
+   "length_scale": 1.12,
+   "start": 581.918,
+   "duration": 1.295,
+   "file": "voice/cache/d6d082fc1f0586bd.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Was studierst du?",
+   "length_scale": 1.15,
+   "start": 583.514,
+   "duration": 0.859,
+   "file": "voice/cache/b37bef44cf9c24a0.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 4,
+   "kind": "slow_repeat",
+   "text": "Was studierst du?",
+   "length_scale": 1.6,
+   "start": 585.073,
+   "duration": 0.84,
+   "file": "voice/cache/f4c7d9757d93cea6.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Eine mögliche Antwort:",
+   "length_scale": 1.12,
+   "start": 590.663,
+   "duration": 1.161,
+   "file": "voice/cache/0ed00d952e4b6b65.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Ich studiere Bauingenieurwesen.",
+   "length_scale": 1.15,
+   "start": 592.124,
+   "duration": 1.603,
+   "file": "voice/cache/b707fde099521327.wav"
+  },
+  {
+   "scene": "monthly_21",
+   "cue": 6,
+   "kind": "slow_repeat",
+   "text": "Ich studiere Bauingenieurwesen.",
+   "length_scale": 1.6,
+   "start": 594.427,
+   "duration": 2.009,
+   "file": "voice/cache/bc636a53dee83561.wav"
+  },
+  {
+   "scene": "monthly_21x",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Noch ein kurzer Zwischenstopp. Lies den persischen Satz und sage ihn auf Deutsch.",
+   "length_scale": 1.12,
+   "start": 602.436,
+   "duration": 4.423,
+   "file": "voice/cache/22b0ec16703b71d5.wav"
+  },
+  {
+   "scene": "monthly_21x",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Erstens.",
+   "length_scale": 1.12,
+   "start": 607.659,
+   "duration": 0.527,
+   "file": "voice/cache/1ae489894820d87e.wav"
+  },
+  {
+   "scene": "monthly_21x",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Wo muss ich aussteigen?",
+   "length_scale": 1.12,
+   "start": 614.186,
+   "duration": 1.129,
+   "file": "voice/cache/acc2ef5708b11816.wav"
+  },
+  {
+   "scene": "monthly_21x",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Zweitens.",
+   "length_scale": 1.12,
+   "start": 616.216,
+   "duration": 0.645,
+   "file": "voice/cache/7d0ada60dea584bd.wav"
+  },
+  {
+   "scene": "monthly_21x",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Eine Brezel, bitte.",
+   "length_scale": 1.12,
+   "start": 622.861,
+   "duration": 1.235,
+   "file": "voice/cache/2a8a7f3649f09c30.wav"
+  },
+  {
+   "scene": "monthly_21x",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Drittens.",
+   "length_scale": 1.12,
+   "start": 624.996,
+   "duration": 0.557,
+   "file": "voice/cache/437a4c34853b7cbf.wav"
+  },
+  {
+   "scene": "monthly_21x",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Ich interessiere mich für Technik.",
+   "length_scale": 1.12,
+   "start": 631.553,
+   "duration": 1.332,
+   "file": "voice/cache/cb743966b92b10dc.wav"
+  },
+  {
+   "scene": "monthly_21x",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Viertens.",
+   "length_scale": 1.12,
+   "start": 633.786,
+   "duration": 0.566,
+   "file": "voice/cache/b6ebf71852e9ebdb.wav"
+  },
+  {
+   "scene": "monthly_21x",
+   "cue": 8,
+   "kind": "normal",
+   "text": "Was studierst du?",
+   "length_scale": 1.12,
+   "start": 640.351,
+   "duration": 0.711,
+   "file": "voice/cache/dba8302661526757.wav"
+  },
+  {
+   "scene": "monthly_21x",
+   "cue": 9,
+   "kind": "normal",
+   "text": "Sehr gut. Du kannst schon viele Fragen stellen.",
+   "length_scale": 1.12,
+   "start": 641.962,
+   "duration": 2.457,
+   "file": "voice/cache/7b69738f1a265d8a.wav"
+  },
+  {
+   "scene": "monthly_22",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Welche Seite der Stadt interessiert dich?",
+   "length_scale": 1.12,
+   "start": 646.419,
+   "duration": 1.844,
+   "file": "voice/cache/b61cf57ff3a2ae72.wav"
+  },
+  {
+   "scene": "monthly_22",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Kultur, Natur oder Technik?",
+   "length_scale": 1.12,
+   "start": 649.013,
+   "duration": 1.874,
+   "file": "voice/cache/46de4e89b1d8c046.wav"
+  },
+  {
+   "scene": "monthly_22",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Formuliere einen Satz:",
+   "length_scale": 1.12,
+   "start": 651.637,
+   "duration": 1.067,
+   "file": "voice/cache/b1827a9a7d7be026.wav"
+  },
+  {
+   "scene": "monthly_22",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Ich interessiere mich für Kultur.",
+   "length_scale": 1.12,
+   "start": 653.104,
+   "duration": 1.485,
+   "file": "voice/cache/b56e7a8579b479db.wav"
+  },
+  {
+   "scene": "monthly_22",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Ich interessiere mich für Natur.",
+   "length_scale": 1.12,
+   "start": 655.189,
+   "duration": 1.471,
+   "file": "voice/cache/58ba4d359a2dd11c.wav"
+  },
+  {
+   "scene": "monthly_22",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Ich interessiere mich für Technik.",
+   "length_scale": 1.12,
+   "start": 657.26,
+   "duration": 1.332,
+   "file": "voice/cache/cb743966b92b10dc.wav"
+  },
+  {
+   "scene": "monthly_22",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Jetzt bist du dran.",
+   "length_scale": 1.12,
+   "start": 659.192,
+   "duration": 0.841,
+   "file": "voice/cache/5f6b28c86d44764e.wav"
+  },
+  {
+   "scene": "monthly_22",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Wähle ein Thema und sprich den Satz laut.",
+   "length_scale": 1.12,
+   "start": 660.633,
+   "duration": 2.338,
+   "file": "voice/cache/4f369d816118a9c6.wav"
+  },
+  {
+   "scene": "monthly_22",
+   "cue": 8,
+   "kind": "normal",
+   "text": "Du brauchst dafür keine perfekte Aussprache.",
+   "length_scale": 1.12,
+   "start": 669.971,
+   "duration": 2.328,
+   "file": "voice/cache/0ebb1040420acaac.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Wir planen keine echte gebuchte Reise, sondern eine Sprachaufgabe.",
+   "length_scale": 1.12,
+   "start": 674.299,
+   "duration": 3.672,
+   "file": "voice/cache/1038296fb46fde16.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Am Vormittag möchtest du die Altstadt besichtigen.",
+   "length_scale": 1.12,
+   "start": 678.57,
+   "duration": 2.427,
+   "file": "voice/cache/c91a304fcac1319e.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Danach möchtest du im Park spazieren gehen.",
+   "length_scale": 1.12,
+   "start": 681.597,
+   "duration": 1.977,
+   "file": "voice/cache/f008d7cae2ec7f93.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Du kannst sagen:",
+   "length_scale": 1.12,
+   "start": 684.174,
+   "duration": 0.793,
+   "file": "voice/cache/eddbe40c9554ec9a.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Zuerst gehe ich zum Marienplatz.",
+   "length_scale": 1.15,
+   "start": 685.268,
+   "duration": 1.808,
+   "file": "voice/cache/8de15d3559fb0482.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 4,
+   "kind": "slow_repeat",
+   "text": "Zuerst gehe ich zum Marienplatz.",
+   "length_scale": 1.6,
+   "start": 687.775,
+   "duration": 2.143,
+   "file": "voice/cache/a721f68edf144b7b.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Danach gehe ich in den Park.",
+   "length_scale": 1.15,
+   "start": 694.518,
+   "duration": 1.458,
+   "file": "voice/cache/cbaafdbb33bc5451.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 5,
+   "kind": "slow_repeat",
+   "text": "Danach gehe ich in den Park.",
+   "length_scale": 1.6,
+   "start": 696.676,
+   "duration": 1.565,
+   "file": "voice/cache/adffc71457208988.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Zuerst und danach helfen dir, einen Ablauf einfach zu beschreiben.",
+   "length_scale": 1.12,
+   "start": 702.841,
+   "duration": 3.779,
+   "file": "voice/cache/30c004c0fa8f0024.wav"
+  },
+  {
+   "scene": "monthly_23",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Achte noch auf einen kleinen Unterschied: Wohin gehe ich? In den Park. Wo gehe ich spazieren? Im Park.",
+   "length_scale": 1.12,
+   "start": 707.22,
+   "duration": 6.777,
+   "file": "voice/cache/43e7327577a496a0.wav"
+  },
+  {
+   "scene": "monthly_24",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Höre dieses Gespräch.",
+   "length_scale": 1.12,
+   "start": 715.998,
+   "duration": 1.181,
+   "file": "voice/cache/1450e2d20750e8c4.wav"
+  },
+  {
+   "scene": "monthly_24",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Was möchtest du in München sehen?",
+   "length_scale": 1.12,
+   "start": 717.979,
+   "duration": 1.355,
+   "file": "voice/cache/75f6f264b11b5c91.wav"
+  },
+  {
+   "scene": "monthly_24",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Ich möchte die Altstadt besichtigen.",
+   "length_scale": 1.12,
+   "start": 720.084,
+   "duration": 1.547,
+   "file": "voice/cache/ec3f6ba04eed9d53.wav"
+  },
+  {
+   "scene": "monthly_24",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Interessierst du dich auch für Technik?",
+   "length_scale": 1.12,
+   "start": 722.38,
+   "duration": 1.511,
+   "file": "voice/cache/77da779284e02123.wav"
+  },
+  {
+   "scene": "monthly_24",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Ja. Aber zuerst möchte ich im Park spazieren gehen.",
+   "length_scale": 1.12,
+   "start": 724.641,
+   "duration": 2.837,
+   "file": "voice/cache/127c6bfc55667017.wav"
+  },
+  {
+   "scene": "monthly_24",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Gute Idee. Wie kommen wir dorthin?",
+   "length_scale": 1.12,
+   "start": 728.228,
+   "duration": 2.174,
+   "file": "voice/cache/1b103d3efb015c03.wav"
+  },
+  {
+   "scene": "monthly_24",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Wir fragen nach dem Weg.",
+   "length_scale": 1.12,
+   "start": 731.152,
+   "duration": 1.107,
+   "file": "voice/cache/245f18ecd8c60b7a.wav"
+  },
+  {
+   "scene": "monthly_24",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Jetzt übernimm die Rolle von Person B.",
+   "length_scale": 1.12,
+   "start": 733.159,
+   "duration": 1.817,
+   "file": "voice/cache/c67f73179a6a6879.wav"
+  },
+  {
+   "scene": "monthly_24x",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Ich bin Person A. Du antwortest als Person B.",
+   "length_scale": 1.12,
+   "start": 736.976,
+   "duration": 2.807,
+   "file": "voice/cache/bc061115ab28f440.wav"
+  },
+  {
+   "scene": "monthly_24x",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Was möchtest du in München sehen?",
+   "length_scale": 1.12,
+   "start": 740.582,
+   "duration": 1.355,
+   "file": "voice/cache/75f6f264b11b5c91.wav"
+  },
+  {
+   "scene": "monthly_24x",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Ich möchte die Altstadt besichtigen.",
+   "length_scale": 1.12,
+   "start": 748.087,
+   "duration": 1.547,
+   "file": "voice/cache/ec3f6ba04eed9d53.wav"
+  },
+  {
+   "scene": "monthly_24x",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Interessierst du dich auch für Technik?",
+   "length_scale": 1.12,
+   "start": 750.534,
+   "duration": 1.511,
+   "file": "voice/cache/77da779284e02123.wav"
+  },
+  {
+   "scene": "monthly_24x",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Ja. Aber zuerst möchte ich im Park spazieren gehen.",
+   "length_scale": 1.12,
+   "start": 758.194,
+   "duration": 2.837,
+   "file": "voice/cache/127c6bfc55667017.wav"
+  },
+  {
+   "scene": "monthly_24x",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Gute Idee. Wie kommen wir dorthin?",
+   "length_scale": 1.12,
+   "start": 761.931,
+   "duration": 2.174,
+   "file": "voice/cache/1b103d3efb015c03.wav"
+  },
+  {
+   "scene": "monthly_24x",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Wir fragen nach dem Weg.",
+   "length_scale": 1.12,
+   "start": 770.255,
+   "duration": 1.107,
+   "file": "voice/cache/245f18ecd8c60b7a.wav"
+  },
+  {
+   "scene": "monthly_24x",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Super! Du hast die ganze Rolle gesprochen.",
+   "length_scale": 1.12,
+   "start": 772.262,
+   "duration": 2.401,
+   "file": "voice/cache/d948729e2a0e6219.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Jetzt hörst du eine kleine Geschichte. Sie ist erfunden.",
+   "length_scale": 1.12,
+   "start": 776.663,
+   "duration": 2.945,
+   "file": "voice/cache/7917546d47a4de6f.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Sara kommt am Morgen in München an.",
+   "length_scale": 1.12,
+   "start": 780.408,
+   "duration": 2.017,
+   "file": "voice/cache/b14b20e718b1d373.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Sie fragt: Entschuldigung, wie komme ich zum Marienplatz?",
+   "length_scale": 1.12,
+   "start": 783.025,
+   "duration": 3.437,
+   "file": "voice/cache/3bf6aaa74374d3c3.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Zuerst besichtigt sie die Altstadt.",
+   "length_scale": 1.12,
+   "start": 787.211,
+   "duration": 1.658,
+   "file": "voice/cache/7c2286bd72c71d33.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Sie sieht Türme, Fenster und Fassaden.",
+   "length_scale": 1.12,
+   "start": 789.469,
+   "duration": 2.375,
+   "file": "voice/cache/15c32e6c7397dad0.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Danach geht sie in den Park.",
+   "length_scale": 1.12,
+   "start": 792.444,
+   "duration": 1.387,
+   "file": "voice/cache/91a97e60824e88c1.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Im Park geht sie spazieren und macht ein Foto.",
+   "length_scale": 1.12,
+   "start": 794.431,
+   "duration": 2.471,
+   "file": "voice/cache/003b25ce960428f2.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Am Nachmittag kauft sie eine Brezel.",
+   "length_scale": 1.12,
+   "start": 797.502,
+   "duration": 1.827,
+   "file": "voice/cache/1d269c3b4a9c50fc.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 8,
+   "kind": "normal",
+   "text": "Sara sagt: Ich interessiere mich für Kultur und Natur.",
+   "length_scale": 1.12,
+   "start": 799.929,
+   "duration": 3.389,
+   "file": "voice/cache/03fcda0d94b0bc29.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 9,
+   "kind": "normal",
+   "text": "Erste Frage: Was besichtigt Sara zuerst?",
+   "length_scale": 1.12,
+   "start": 804.219,
+   "duration": 2.873,
+   "file": "voice/cache/9f36bf34d085af64.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 10,
+   "kind": "normal",
+   "text": "Die Altstadt.",
+   "length_scale": 1.12,
+   "start": 813.241,
+   "duration": 0.669,
+   "file": "voice/cache/c025f443e277ccdf.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 11,
+   "kind": "normal",
+   "text": "Zweite Frage: Was macht Sara im Park?",
+   "length_scale": 1.12,
+   "start": 814.811,
+   "duration": 2.35,
+   "file": "voice/cache/4a7b6e9bfa431bf8.wav"
+  },
+  {
+   "scene": "monthly_24y",
+   "cue": 12,
+   "kind": "normal",
+   "text": "Sie geht spazieren und macht ein Foto.",
+   "length_scale": 1.12,
+   "start": 823.31,
+   "duration": 2.195,
+   "file": "voice/cache/01b9eacde7c10fd6.wav"
+  },
+  {
+   "scene": "monthly_25",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Unser erstes Quiz: Was ist Bayern?",
+   "length_scale": 1.12,
+   "start": 827.505,
+   "duration": 2.081,
+   "file": "voice/cache/4d6ff0b85b673327.wav"
+  },
+  {
+   "scene": "monthly_25",
+   "cue": 1,
+   "kind": "normal",
+   "text": "A: eine Stadt.",
+   "length_scale": 1.12,
+   "start": 830.337,
+   "duration": 1.03,
+   "file": "voice/cache/f7a6d5eae0f1c583.wav"
+  },
+  {
+   "scene": "monthly_25",
+   "cue": 2,
+   "kind": "normal",
+   "text": "B: ein Bundesland.",
+   "length_scale": 1.12,
+   "start": 831.967,
+   "duration": 1.483,
+   "file": "voice/cache/10c45d2ef9dcc834.wav"
+  },
+  {
+   "scene": "monthly_25",
+   "cue": 3,
+   "kind": "normal",
+   "text": "C: ein Bahnhof.",
+   "length_scale": 1.12,
+   "start": 834.05,
+   "duration": 1.192,
+   "file": "voice/cache/a3ff71b074e57685.wav"
+  },
+  {
+   "scene": "monthly_25",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Die richtige Antwort ist B.",
+   "length_scale": 1.12,
+   "start": 841.242,
+   "duration": 1.584,
+   "file": "voice/cache/263265ca7150ea81.wav"
+  },
+  {
+   "scene": "monthly_25",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Zweite Frage: Was ist München?",
+   "length_scale": 1.12,
+   "start": 843.725,
+   "duration": 1.744,
+   "file": "voice/cache/692b09b8b8f3b3c5.wav"
+  },
+  {
+   "scene": "monthly_25",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Richtig: eine Stadt und die Landeshauptstadt Bayerns.",
+   "length_scale": 1.12,
+   "start": 851.619,
+   "duration": 2.994,
+   "file": "voice/cache/533742527773aea8.wav"
+  },
+  {
+   "scene": "monthly_25",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Dritte Frage: Welcher Ort war heute unser Beispiel für einen Park?",
+   "length_scale": 1.12,
+   "start": 855.513,
+   "duration": 3.604,
+   "file": "voice/cache/83cac1fd539779c9.wav"
+  },
+  {
+   "scene": "monthly_25",
+   "cue": 8,
+   "kind": "normal",
+   "text": "Der Englische Garten.",
+   "length_scale": 1.12,
+   "start": 865.267,
+   "duration": 0.965,
+   "file": "voice/cache/cb2757eecaef405b.wav"
+  },
+  {
+   "scene": "monthly_26",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Jetzt ohne Auswahlmöglichkeiten.",
+   "length_scale": 1.12,
+   "start": 868.232,
+   "duration": 1.703,
+   "file": "voice/cache/643f73e7ff5396bc.wav"
+  },
+  {
+   "scene": "monthly_26",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Wie fragst du nach dem Weg zum Bahnhof?",
+   "length_scale": 1.12,
+   "start": 870.735,
+   "duration": 1.695,
+   "file": "voice/cache/1b8a4061ad361629.wav"
+  },
+  {
+   "scene": "monthly_26",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Wie sagst du, dass du im Park spazieren gehst?",
+   "length_scale": 1.12,
+   "start": 878.58,
+   "duration": 2.304,
+   "file": "voice/cache/3b89c4baf139caa5.wav"
+  },
+  {
+   "scene": "monthly_26",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Wie sagst du, dass du dich für Technik interessierst?",
+   "length_scale": 1.12,
+   "start": 887.035,
+   "duration": 2.294,
+   "file": "voice/cache/5980c47556efa27b.wav"
+  },
+  {
+   "scene": "monthly_26",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Vergleiche danach:",
+   "length_scale": 1.12,
+   "start": 895.479,
+   "duration": 0.901,
+   "file": "voice/cache/feda52736df9dc7a.wav"
+  },
+  {
+   "scene": "monthly_26",
+   "cue": 5,
+   "kind": "normal",
+   "text": "Wie komme ich zum Bahnhof?",
+   "length_scale": 1.12,
+   "start": 896.779,
+   "duration": 1.063,
+   "file": "voice/cache/ff24295491def042.wav"
+  },
+  {
+   "scene": "monthly_26",
+   "cue": 6,
+   "kind": "normal",
+   "text": "Ich gehe im Park spazieren.",
+   "length_scale": 1.12,
+   "start": 898.593,
+   "duration": 1.44,
+   "file": "voice/cache/d7335c7add9a430b.wav"
+  },
+  {
+   "scene": "monthly_26",
+   "cue": 7,
+   "kind": "normal",
+   "text": "Ich interessiere mich für Technik.",
+   "length_scale": 1.12,
+   "start": 900.633,
+   "duration": 1.332,
+   "file": "voice/cache/cb743966b92b10dc.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Zum Schluss ein Wortschatz-Check. Sprich jedes Wort mit Artikel nach.",
+   "length_scale": 1.12,
+   "start": 903.966,
+   "duration": 3.868,
+   "file": "voice/cache/546983a616566cf2.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 1,
+   "kind": "normal",
+   "text": "das Land.",
+   "length_scale": 1.12,
+   "start": 908.634,
+   "duration": 0.548,
+   "file": "voice/cache/7c70ca2b69cbd38e.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 2,
+   "kind": "normal",
+   "text": "das Bundesland.",
+   "length_scale": 1.12,
+   "start": 911.482,
+   "duration": 0.797,
+   "file": "voice/cache/2f6cc18bb1060b33.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 3,
+   "kind": "normal",
+   "text": "die Stadt.",
+   "length_scale": 1.12,
+   "start": 914.579,
+   "duration": 0.437,
+   "file": "voice/cache/8c8597482ff93092.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 4,
+   "kind": "normal",
+   "text": "die Altstadt.",
+   "length_scale": 1.12,
+   "start": 917.316,
+   "duration": 0.785,
+   "file": "voice/cache/307178c28eb1321b.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 5,
+   "kind": "normal",
+   "text": "die Sehenswürdigkeit.",
+   "length_scale": 1.12,
+   "start": 920.401,
+   "duration": 0.978,
+   "file": "voice/cache/53c271629e042ae5.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 6,
+   "kind": "normal",
+   "text": "der Park.",
+   "length_scale": 1.12,
+   "start": 923.68,
+   "duration": 0.51,
+   "file": "voice/cache/76d529c8f0b6c219.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 7,
+   "kind": "normal",
+   "text": "die U-Bahn.",
+   "length_scale": 1.12,
+   "start": 926.49,
+   "duration": 0.633,
+   "file": "voice/cache/302ff097e6d14f6d.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 8,
+   "kind": "normal",
+   "text": "der Bahnhof.",
+   "length_scale": 1.12,
+   "start": 929.423,
+   "duration": 0.593,
+   "file": "voice/cache/a17003968f4f7d33.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 9,
+   "kind": "normal",
+   "text": "die Haltestelle.",
+   "length_scale": 1.12,
+   "start": 932.316,
+   "duration": 0.717,
+   "file": "voice/cache/e866b28af578a840.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 10,
+   "kind": "normal",
+   "text": "die Brezel.",
+   "length_scale": 1.12,
+   "start": 935.333,
+   "duration": 0.621,
+   "file": "voice/cache/5950e0ac3f91e44b.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 11,
+   "kind": "normal",
+   "text": "die Tradition.",
+   "length_scale": 1.12,
+   "start": 938.254,
+   "duration": 0.85,
+   "file": "voice/cache/6597d6b060cae9a9.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 12,
+   "kind": "normal",
+   "text": "das Unternehmen.",
+   "length_scale": 1.12,
+   "start": 941.405,
+   "duration": 0.881,
+   "file": "voice/cache/ea96b58f3f759415.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 13,
+   "kind": "normal",
+   "text": "die Forschung.",
+   "length_scale": 1.12,
+   "start": 944.586,
+   "duration": 0.641,
+   "file": "voice/cache/fac967ea6aa92b91.wav"
+  },
+  {
+   "scene": "monthly_26x",
+   "cue": 14,
+   "kind": "normal",
+   "text": "Wie viele Wörter kennst du schon?",
+   "length_scale": 1.12,
+   "start": 947.527,
+   "duration": 1.43,
+   "file": "voice/cache/982fa6058374836b.wav"
+  },
+  {
+   "scene": "monthly_27",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Wir haben München aus mehreren Blickwinkeln betrachtet: Stadt und Bundesland, Altstadt und Park, Alltag und Industrie.",
+   "length_scale": 1.12,
+   "start": 950.956,
+   "duration": 7.47,
+   "file": "voice/cache/b49f3f0d9d4f03ba.wav"
+  },
+  {
+   "scene": "monthly_27",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Kein einzelnes Foto erzählt alles über einen Ort.",
+   "length_scale": 1.12,
+   "start": 959.026,
+   "duration": 2.777,
+   "file": "voice/cache/04a17de103840cbd.wav"
+  },
+  {
+   "scene": "monthly_27",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Und kein einzelnes Fest beschreibt alle Menschen.",
+   "length_scale": 1.12,
+   "start": 962.403,
+   "duration": 2.671,
+   "file": "voice/cache/79ce811db798de4f.wav"
+  },
+  {
+   "scene": "monthly_27",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Du hast heute gelernt, einfache Beobachtungen in deutsche Sätze zu verwandeln.",
+   "length_scale": 1.12,
+   "start": 965.674,
+   "duration": 3.964,
+   "file": "voice/cache/38113bdde1dab039.wav"
+  },
+  {
+   "scene": "monthly_27",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Genau darum geht es in dieser Reihe.",
+   "length_scale": 1.12,
+   "start": 970.238,
+   "duration": 1.77,
+   "file": "voice/cache/85f62827875e3265.wav"
+  },
+  {
+   "scene": "monthly_28",
+   "cue": 0,
+   "kind": "normal",
+   "text": "Welche Stadt sollen wir als Nächstes entdecken?",
+   "length_scale": 1.12,
+   "start": 974.008,
+   "duration": 2.108,
+   "file": "voice/cache/9a1785ef68fbf821.wav"
+  },
+  {
+   "scene": "monthly_28",
+   "cue": 1,
+   "kind": "normal",
+   "text": "Schreibe den Namen und einen Grund in die Kommentare.",
+   "length_scale": 1.12,
+   "start": 976.866,
+   "duration": 2.569,
+   "file": "voice/cache/a9920c3c60e018fe.wav"
+  },
+  {
+   "scene": "monthly_28",
+   "cue": 2,
+   "kind": "normal",
+   "text": "Speichere drei Sätze aus dieser Folge und übe sie noch einmal.",
+   "length_scale": 1.12,
+   "start": 980.035,
+   "duration": 3.382,
+   "file": "voice/cache/83f4a093d281d514.wav"
+  },
+  {
+   "scene": "monthly_28",
+   "cue": 3,
+   "kind": "normal",
+   "text": "Abonniere Deutsch mit Farsi für weitere Alltagslektionen und unsere nächste Städtefolge.",
+   "length_scale": 1.12,
+   "start": 984.017,
+   "duration": 4.827,
+   "file": "voice/cache/09eb095e7bf341de.wav"
+  },
+  {
+   "scene": "monthly_28",
+   "cue": 4,
+   "kind": "normal",
+   "text": "Jeden Tag einen Schritt näher an die deutsche Sprache.",
+   "length_scale": 1.12,
+   "start": 989.444,
+   "duration": 2.511,
+   "file": "voice/cache/4863b4212eac92ad.wav"
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+node_modules
+build/
+voice/cache/
+voice/*.onnx
+voice/*.onnx.json
+audio/*.wav
+out/*.mp4
+release/*.mp4

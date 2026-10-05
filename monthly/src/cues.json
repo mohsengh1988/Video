@@ -1,0 +1,1365 @@
+{
+ "title_de": "München & Bayern entdecken",
+ "title_fa": "مونیخ فراتر از اکتبرفست",
+ "level": "A2 · Kultur",
+ "note": "Sprechtext aus SCRIPT.md in Einzelsätzen. added=true: von Claude ergänzter Lernteil (kein neuer Fakt). learn: langsame Wiederholung + 4 s Pause; wait: Antwortzeit mit Countdown; role: Beschriftung (nicht gesprochen); chime: leiser Ton bei Quiz-Auflösung.",
+ "scenes": [
+  {
+   "id": "monthly_01",
+   "title": "Hook",
+   "photo": "marienplatz.jpg",
+   "cues": [
+    {
+     "say": "Wenn du München hörst, denkst du vielleicht zuerst an das Oktoberfest.",
+     "fa": "با شنیدن مونیخ شاید اول به اکتبرفست فکر کنی، اما یک شهر بیشتر از معروف‌ترین جشنش است."
+    },
+    {
+     "say": "Aber eine Stadt ist mehr als ihr bekanntestes Fest."
+    },
+    {
+     "say": "Heute entdecken wir München und Bayern durch Bilder, kurze Geschichten und einfache deutsche Sätze.",
+     "fa": "امروز با عکس، روایت و جمله‌های ساده مونیخ و بایرن را می‌شناسیم و دربارهٔ شهر صحبت می‌کنیم."
+    },
+    {
+     "say": "Du lernst nicht nur Ortsnamen."
+    },
+    {
+     "say": "Du lernst auch, wie du über eine Stadt sprechen und nach dem Weg fragen kannst.",
+     "fa": "یاد می‌گیری دربارهٔ یک شهر حرف بزنی و مسیر را بپرسی.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_02",
+   "title": "Orientierung",
+   "cues": [
+    {
+     "say": "Zuerst ordnen wir die Namen.",
+     "fa": "ابتدا نام‌ها را مرتب می‌کنیم."
+    },
+    {
+     "say": "Deutschland ist das Land.",
+     "fa": "آلمان کشور است."
+    },
+    {
+     "say": "Bayern ist ein Bundesland.",
+     "fa": "بایرن یک ایالت است."
+    },
+    {
+     "say": "München ist eine Stadt und die Landeshauptstadt von Bayern.",
+     "fa": "مونیخ شهر و مرکز ایالت بایرن است."
+    },
+    {
+     "say": "Stelle dir drei Ebenen vor: Deutschland, Bayern, München.",
+     "fa": "سه سطح را ببین: آلمان، بایرن، مونیخ."
+    },
+    {
+     "say": "Diese Begriffe sind nicht austauschbar.",
+     "fa": "این نام‌ها جایگزین یکدیگر نیستند."
+    },
+    {
+     "say": "Wenn jemand in München wohnt, wohnt diese Person auch in Bayern und in Deutschland.",
+     "fa": "کسی که در مونیخ زندگی می‌کند، در بایرن و آلمان هم زندگی می‌کند.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_03",
+   "title": "Wortschatz Land",
+   "cues": [
+    {
+     "say": "Unsere ersten Wörter sind: das Land, das Bundesland und die Stadt.",
+     "fa": "کلمه‌های اول با حرف تعریف: کشور، ایالت و شهر."
+    },
+    {
+     "say": "Wiederhole mit Artikel.",
+     "gap": 0.8
+    },
+    {
+     "say": "Das Land.",
+     "pause": 1.8
+    },
+    {
+     "say": "Das Bundesland.",
+     "pause": 1.8
+    },
+    {
+     "say": "Die Stadt.",
+     "pause": 1.8
+    },
+    {
+     "say": "Der Artikel gehört zum Wort.",
+     "fa": "حرف تعریف جزئی از کلمه است.",
+     "fa_added": true
+    },
+    {
+     "say": "Unser Beispielsatz lautet:",
+     "gap": 0.3,
+     "fa": "جمله: مونیخ شهری در بایرن است."
+    },
+    {
+     "say": "München ist eine Stadt in Bayern.",
+     "learn": true
+    },
+    {
+     "say": "Auf der Grafik siehst du nur eine schematische Orientierung.",
+     "fa": "تصویر جهت‌یابی شماتیک است و مرزهای دقیق را نشان نمی‌دهد."
+    },
+    {
+     "say": "Sie ist keine Karte mit genauen Grenzen."
+    }
+   ]
+  },
+  {
+   "id": "monthly_04",
+   "title": "Bayern ist vielfältig",
+   "cues": [
+    {
+     "say": "Bayern besteht nicht nur aus München.",
+     "fa": "بایرن فقط مونیخ نیست."
+    },
+    {
+     "say": "Auf unserer Wortkarte stehen zum Beispiel Nürnberg, Augsburg und Regensburg.",
+     "fa": "برای نمونه نورنبرگ، آگسبورگ و رگنسبورگ هم هستند."
+    },
+    {
+     "say": "Es gibt verschiedene Städte, Landschaften und regionale Traditionen.",
+     "fa": "شهرها، منظره‌ها و سنت‌ها متفاوت‌اند."
+    },
+    {
+     "say": "Deshalb sagen wir nicht: Alle Menschen in Bayern leben gleich.",
+     "fa": "پس نمی‌گوییم: همهٔ مردم بایرن یک‌جور زندگی می‌کنند.",
+     "fa_added": true
+    },
+    {
+     "say": "Eine Region hat viele Perspektiven.",
+     "fa": "یک منطقه دیدگاه‌های زیادی دارد.",
+     "fa_added": true
+    },
+    {
+     "say": "Heute ist München unser Ausgangspunkt, nicht die ganze Geschichte Bayerns.",
+     "fa": "مونیخ نقطهٔ شروع ماست، نه تمام داستان بایرن."
+    }
+   ]
+  },
+  {
+   "id": "monthly_05",
+   "title": "Ankommen",
+   "photo": "metro_interior.jpg",
+   "cues": [
+    {
+     "say": "Stell dir vor, du kommst in München an.",
+     "fa": "تصور کن به مونیخ رسیده‌ای و می‌خواهی به مرکز بروی."
+    },
+    {
+     "say": "Du möchtest ins Zentrum."
+    },
+    {
+     "say": "Du kannst fragen:",
+     "gap": 0.3,
+     "fa": "ببخشید، چطور به مارین‌پلاتس بروم؟"
+    },
+    {
+     "say": "Entschuldigung, wie komme ich zum Marienplatz?",
+     "learn": true
+    },
+    {
+     "say": "Wir geben hier keine konkrete Verbindung und keinen Fahrpreis an.",
+     "fa": "مسیر و قیمت واقعی نمی‌دهیم؛ باید برای روز سفرت بررسی شوند."
+    },
+    {
+     "say": "Beides musst du für deinen tatsächlichen Reisetag prüfen."
+    },
+    {
+     "say": "Heute lernen wir die Frage, mit der du Informationen bekommen kannst.",
+     "fa": "امروز خود سؤال را یاد می‌گیریم."
+    }
+   ]
+  },
+  {
+   "id": "monthly_06",
+   "title": "Marienplatz",
+   "photo": "marienplatz.jpg",
+   "cues": [
+    {
+     "say": "Der Marienplatz liegt im Zentrum der Münchner Altstadt.",
+     "fa": "مارین‌پلاتس در مرکز بافت قدیمی مونیخ است و از زمان تأسیس شهر در سال ۱۱۵۸ یک مرکز مهم بوده است."
+    },
+    {
+     "say": "Schon seit der Stadtgründung im Jahr elfhundertachtundfünfzig ist dieser Platz ein wichtiger Mittelpunkt.",
+     "show": "Schon seit der Stadtgründung im Jahr 1158 ist dieser Platz ein wichtiger Mittelpunkt."
+    },
+    {
+     "say": "Auf unserem Foto siehst du einen Ausschnitt des Platzes und seiner Gebäude.",
+     "fa": "در عکس بخشی از میدان و ساختمان‌ها را می‌بینی."
+    },
+    {
+     "say": "Schau auf die Architektur.",
+     "fa": "برج، پنجره، نما و فضای باز را پیدا کن."
+    },
+    {
+     "say": "Welche Formen erkennst du?"
+    },
+    {
+     "say": "Türme, Fenster, Fassaden und ein offener Platz."
+    },
+    {
+     "say": "Mit Artikel: der Turm, das Fenster, die Fassade, der Platz.",
+     "added": true,
+     "fa": "با حرف تعریف: برج، پنجره، نما، میدان.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_07",
+   "title": "Ein Foto lesen",
+   "photo": "marienplatz.jpg",
+   "cues": [
+    {
+     "say": "Ein Foto zeigt einen bestimmten Moment.",
+     "fa": "عکس یک لحظه را نشان می‌دهد، نه وضعیت همیشگی میدان."
+    },
+    {
+     "say": "Es zeigt nicht, wie der Platz jeden Tag aussieht."
+    },
+    {
+     "say": "Unser Bild wurde am Abend aufgenommen.",
+     "fa": "این تصویر عصر ثبت شده است."
+    },
+    {
+     "say": "Die Stimmung entsteht durch Licht und Perspektive.",
+     "fa": "نور و زاویه حال‌وهوا می‌سازند."
+    },
+    {
+     "say": "Wenn du später selbst Bilder auswählst, frage immer: Was zeigt das Foto wirklich?",
+     "fa": "همیشه تفاوت چیزی که عکس نشان می‌دهد و چیزی که متن می‌گوید را در نظر بگیر."
+    },
+    {
+     "say": "Und welche Information ergänze ich nur mit meinem Text?"
+    }
+   ]
+  },
+  {
+   "id": "monthly_08",
+   "title": "Altstadt Wortschatz",
+   "cues": [
+    {
+     "say": "Die Altstadt ist der historische Teil einer Stadt.",
+     "fa": "«Altstadt» بخش تاریخی شهر است."
+    },
+    {
+     "say": "Ein wichtiger Ausdruck lautet: die Sehenswürdigkeit.",
+     "fa": "«Sehenswürdigkeit» یعنی دیدنی."
+    },
+    {
+     "say": "Das ist ein Ort oder ein Objekt, das Besucher interessant finden.",
+     "fa": "جایی یا چیزی که برای بازدیدکنندگان جالب است.",
+     "fa_added": true
+    },
+    {
+     "say": "Unser Satz:",
+     "gap": 0.3,
+     "fa": "جمله: می‌خواهم از بافت قدیمی شهر بازدید کنم."
+    },
+    {
+     "say": "Ich möchte die Altstadt besichtigen."
+    },
+    {
+     "say": "Besichtigen bedeutet, einen Ort bewusst anzusehen.",
+     "show": "„Besichtigen“ bedeutet, einen Ort bewusst anzusehen.",
+     "fa": "«besichtigen» یعنی یک مکان را با هدف بازدید ببینی."
+    },
+    {
+     "say": "Wiederhole:",
+     "gap": 0.3,
+     "fa": "می‌خواهم از بافت قدیمی شهر بازدید کنم."
+    },
+    {
+     "say": "Ich möchte die Altstadt besichtigen.",
+     "learn": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_09",
+   "title": "Wegfrage üben",
+   "cues": [
+    {
+     "say": "Wir üben eine kurze Szene.",
+     "fa": "یک صحنهٔ کوتاه را تمرین می‌کنیم.",
+     "fa_added": true,
+     "gap": 0.8
+    },
+    {
+     "say": "Entschuldigung, wie komme ich zum Marienplatz?",
+     "role": "Besucher",
+     "gap": 0.75,
+     "fa": "ببخشید، چطور به مارین‌پلاتس بروم؟"
+    },
+    {
+     "say": "Gehen Sie geradeaus und dann links.",
+     "role": "Andere Person",
+     "gap": 0.75,
+     "fa": "مستقیم بروید و بعد به چپ.",
+     "fa_added": true
+    },
+    {
+     "say": "Vielen Dank!",
+     "role": "Besucher",
+     "gap": 0.9,
+     "fa": "خیلی ممنون!"
+    },
+    {
+     "say": "Die Antwort ist ein erfundenes Lernbeispiel, keine echte Wegbeschreibung.",
+     "fa": "پاسخ یک مسیر خیالی آموزشی است."
+    },
+    {
+     "say": "Versuche jetzt selbst die Frage.",
+     "fa": "حالا مقصد را ایستگاه قطار قرار بده: چطور به ایستگاه بروم؟"
+    },
+    {
+     "say": "Ersetze den Marienplatz durch den Bahnhof.",
+     "wait": 5
+    },
+    {
+     "say": "Wie komme ich zum Bahnhof?",
+     "fa": "چطور به ایستگاه قطار بروم؟",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_10",
+   "title": "Grün in der Stadt",
+   "photo": "english_garden.jpg",
+   "cues": [
+    {
+     "say": "Nach den Straßen wechseln wir in eine grüne Umgebung.",
+     "fa": "بعد از خیابان‌ها وارد فضای سبز می‌شویم."
+    },
+    {
+     "say": "Der Englische Garten ist ein großer Park in München.",
+     "fa": "باغ انگلیسی پارکی بزرگ در مونیخ است."
+    },
+    {
+     "say": "Das Foto zeigt den Monopteros, einen kleinen Rundbau mit Säulen auf einem Hügel.",
+     "fa": "عکس مونوپتروس، بنای گرد ستون‌دار روی تپه را نشان می‌دهد."
+    },
+    {
+     "say": "Wir betrachten ihn als Teil der Landschaft."
+    },
+    {
+     "say": "Stadtleben bedeutet hier nicht nur Gebäude: Es gibt auch Wege, Bäume und Plätze zum Verweilen.",
+     "fa": "شهر فقط ساختمان نیست؛ مسیر، درخت و محل مکث هم دارد."
+    }
+   ]
+  },
+  {
+   "id": "monthly_11",
+   "title": "Spazieren gehen",
+   "photo": "english_garden.jpg",
+   "cues": [
+    {
+     "say": "Ein passender Ausdruck ist: spazieren gehen.",
+     "fa": "عبارت مناسب: قدم زدن."
+    },
+    {
+     "say": "Du gehst ohne Eile und genießt die Umgebung.",
+     "fa": "بدون عجله راه می‌روی و از محیط لذت می‌بری.",
+     "fa_added": true
+    },
+    {
+     "say": "Unser Satz lautet: Ich gehe im Park spazieren.",
+     "fa": "جمله: در پارک قدم می‌زنم."
+    },
+    {
+     "say": "Im ist hier die Verbindung von in und dem.",
+     "show": "„Im“ ist hier die Verbindung von „in“ und „dem“.",
+     "fa": "«im» در اینجا ترکیب «in» و «dem» است."
+    },
+    {
+     "say": "Für den Anfang kannst du den Satz als Ganzes lernen.",
+     "fa": "فعلاً جمله را به صورت کامل یاد بگیر و آهسته تکرار کن."
+    },
+    {
+     "say": "Sage ihn zuerst normal und dann noch einmal langsam."
+    },
+    {
+     "say": "Ich gehe im Park spazieren.",
+     "learn": true,
+     "fa": "در پارک قدم می‌زنم."
+    }
+   ]
+  },
+  {
+   "id": "monthly_12",
+   "title": "Pause",
+   "photo": "english_garden.jpg",
+   "cues": [
+    {
+     "say": "Welche Umgebung magst du lieber: einen belebten Platz oder einen ruhigen Park?",
+     "fa": "میدان شلوغ را بیشتر دوست داری یا پارک آرام؟"
+    },
+    {
+     "say": "Du kannst sagen: Ich mag die Altstadt.",
+     "fa": "می‌توانی بگویی: بافت قدیمی را دوست دارم."
+    },
+    {
+     "say": "Oder: Ich mag den Park.",
+     "fa": "یا: پارک را دوست دارم."
+    },
+    {
+     "say": "Beides ist richtig, aber der Artikel verändert sich.",
+     "fa": "هر دو درست است، اما حرف تعریف تغییر می‌کند."
+    },
+    {
+     "say": "Schreibe einen eigenen Satz.",
+     "wait": 6,
+     "fa": "جملهٔ خودت را بنویس؛ این نظر توست، نه همهٔ مردم مونیخ."
+    },
+    {
+     "say": "Der Inhalt soll deine Meinung ausdrücken, keine angebliche Meinung aller Menschen in München."
+    }
+   ]
+  },
+  {
+   "id": "monthly_13",
+   "title": "Alltag unterwegs",
+   "photo": "metro_interior.jpg",
+   "cues": [
+    {
+     "say": "Auf diesem Foto siehst du den Innenraum einer Münchner U-Bahn.",
+     "fa": "عکس داخل متروی مونیخ است."
+    },
+    {
+     "say": "Menschen nutzen unterschiedliche Verkehrsmittel: Sie gehen zu Fuß, fahren Fahrrad oder nutzen Bus und Bahn.",
+     "fa": "مردم از راه‌های مختلف رفت‌وآمد می‌کنند: پیاده، دوچرخه، اتوبوس یا قطار."
+    },
+    {
+     "say": "Wir behaupten nicht, dass jeder denselben Weg hat.",
+     "fa": "همه مسیر یکسان ندارند."
+    },
+    {
+     "say": "Für unsere Sprachübung reicht: Ich fahre mit der U-Bahn.",
+     "fa": "تمرین: با مترو می‌روم."
+    },
+    {
+     "say": "Und:",
+     "gap": 0.3,
+     "fa": "کجا باید پیاده شوم؟"
+    },
+    {
+     "say": "Wo muss ich aussteigen?",
+     "learn": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_14",
+   "title": "Verkehrsmittel",
+   "cues": [
+    {
+     "say": "Lerne die Wörter mit Artikel: die U-Bahn, der Bus, das Fahrrad und der Bahnhof.",
+     "fa": "کلمه‌ها با حرف تعریف: مترو، اتوبوس، دوچرخه و ایستگاه قطار."
+    },
+    {
+     "say": "Ein Bahnhof ist ein Ort, kein Verkehrsmittel.",
+     "fa": "ایستگاه قطار وسیله نیست، مکان است."
+    },
+    {
+     "say": "Eine Haltestelle ist ein Ort, an dem ein Verkehrsmittel hält.",
+     "fa": "«Haltestelle» محل توقف است."
+    },
+    {
+     "say": "Unsere Frage lautet:",
+     "gap": 0.3,
+     "fa": "سؤال: نزدیک‌ترین ایستگاه کجاست؟"
+    },
+    {
+     "say": "Wo ist die nächste Haltestelle?",
+     "learn": true
+    },
+    {
+     "say": "Höre die Betonung und wiederhole den Satz in deinem eigenen Tempo.",
+     "fa": "به تأکید گوش بده و جمله را با سرعت خودت تکرار کن.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_14x",
+   "title": "Zwischenstopp",
+   "added": true,
+   "cues": [
+    {
+     "say": "Zeit für einen kurzen Zwischenstopp.",
+     "fa": "وقت یک توقف کوتاه است.",
+     "fa_added": true
+    },
+    {
+     "say": "Du siehst einen Satz auf Persisch. Sage ihn auf Deutsch, bevor du die Antwort hörst.",
+     "fa": "جمله را به فارسی می‌بینی. قبل از شنیدن پاسخ، آن را به آلمانی بگو.",
+     "fa_added": true,
+     "gap": 0.8
+    },
+    {
+     "say": "Erstens.",
+     "wait": 5,
+     "fa": "مونیخ شهری در بایرن است."
+    },
+    {
+     "say": "München ist eine Stadt in Bayern.",
+     "gap": 0.9
+    },
+    {
+     "say": "Zweitens.",
+     "wait": 5,
+     "fa": "می‌خواهم از بافت قدیمی شهر بازدید کنم."
+    },
+    {
+     "say": "Ich möchte die Altstadt besichtigen.",
+     "gap": 0.9
+    },
+    {
+     "say": "Drittens.",
+     "wait": 5,
+     "fa": "در پارک قدم می‌زنم."
+    },
+    {
+     "say": "Ich gehe im Park spazieren.",
+     "gap": 0.9
+    },
+    {
+     "say": "Viertens.",
+     "wait": 5,
+     "fa": "نزدیک‌ترین ایستگاه کجاست؟"
+    },
+    {
+     "say": "Wo ist die nächste Haltestelle?",
+     "gap": 0.9
+    },
+    {
+     "say": "Sehr gut. Jetzt geht es weiter mit einem Ort, den du schon kennst: der Bäckerei.",
+     "fa": "خیلی خوب. حالا می‌رویم سراغ جایی که می‌شناسی: نانوایی.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_15",
+   "title": "Bäckerei als Alltag",
+   "photo": "bakery.jpg",
+   "cues": [
+    {
+     "say": "Eine Bäckerei kann ein guter Ort für eine kurze Sprachübung sein.",
+     "fa": "نانوایی می‌تواند محل تمرین کوتاه باشد."
+    },
+    {
+     "say": "Unser Foto stammt aus Berlin, nicht aus München.",
+     "fa": "این عکس در برلین گرفته شده، نه مونیخ؛ فقط تصویر عمومی نانوایی است."
+    },
+    {
+     "say": "Wir nutzen es nur als allgemeines Bild einer Bäckerei."
+    },
+    {
+     "say": "Ortsangaben müssen ehrlich bleiben.",
+     "fa": "معرفی مکان‌ها باید درست بماند.",
+     "fa_added": true
+    },
+    {
+     "say": "Der Satz passt trotzdem: Ich hätte gern eine Brezel, bitte.",
+     "fa": "جمله همچنان مناسب است: لطفاً یک پرتزل می‌خواهم."
+    },
+    {
+     "say": "Du kennst ihn vielleicht schon aus unserer Alltagslektion.",
+     "fa": "شاید آن را از درس روزمرهٔ ما بشناسی.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_16",
+   "title": "Brezel und Brezn",
+   "cues": [
+    {
+     "say": "Im Standarddeutschen heißt das Wort: die Brezel.",
+     "fa": "در آلمانی معیار «die Brezel» و در بایرن «die Brezn» هم شنیده می‌شود."
+    },
+    {
+     "say": "In Bayern hörst du auch: die Brezn."
+    },
+    {
+     "say": "Beide Formen gehören in unseren Lernvergleich."
+    },
+    {
+     "say": "Du musst keinen Dialekt nachmachen, um höflich zu bestellen.",
+     "fa": "برای سفارش مؤدبانه لازم نیست لهجه را تقلید کنی."
+    },
+    {
+     "say": "Standarddeutsch ist unser Ausgangspunkt.",
+     "fa": "آلمانی معیار مبنای ما و واژهٔ محلی مکمل آن است."
+    },
+    {
+     "say": "Regionale Wörter ergänzen das Bild."
+    },
+    {
+     "say": "Unser Beispielsatz:",
+     "gap": 0.3,
+     "fa": "یک پرتزل، لطفاً."
+    },
+    {
+     "say": "Eine Brezel, bitte.",
+     "learn": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_17",
+   "title": "Tradition ohne Klischee",
+   "cues": [
+    {
+     "say": "Traditionen sind ein Teil einer Region, aber keine vollständige Beschreibung aller Menschen.",
+     "fa": "سنت‌ها بخشی از یک منطقه‌اند، نه توصیف تمام مردم."
+    },
+    {
+     "say": "Nicht jede Person trägt Tracht.",
+     "fa": "همه لباس سنتی نمی‌پوشند و به جشن‌های یکسان علاقه ندارند."
+    },
+    {
+     "say": "Nicht jede Person interessiert sich für dieselben Feste."
+    },
+    {
+     "say": "Wenn wir Kultur erklären, unterscheiden wir zwischen einer Tradition und einer allgemeinen Behauptung.",
+     "fa": "وقتی فرهنگ را توضیح می‌دهیم، سنت را از یک ادعای کلی جدا می‌کنیم.",
+     "fa_added": true
+    },
+    {
+     "say": "Ein guter Satz lautet: Diese Tradition ist in der Region bekannt.",
+     "fa": "جملهٔ بهتر: این سنت در منطقه شناخته شده است."
+    }
+   ]
+  },
+  {
+   "id": "monthly_18",
+   "title": "Sprache und Dialekt",
+   "cues": [
+    {
+     "say": "Vielleicht hörst du in Bayern Servus oder Grüß Gott.",
+     "show": "Vielleicht hörst du in Bayern „Servus“ oder „Grüß Gott“.",
+     "fa": "ممکن است در بایرن «Servus» یا «Grüß Gott» بشنوی؛ سلام‌های منطقه‌ای‌اند."
+    },
+    {
+     "say": "Diese Begrüßungen kommen regional vor."
+    },
+    {
+     "say": "Du kannst selbst einfach Guten Tag sagen.",
+     "show": "Du kannst selbst einfach „Guten Tag“ sagen.",
+     "fa": "خودت می‌توانی «Guten Tag» بگویی."
+    },
+    {
+     "say": "Ein Dialekt kann am Anfang ungewohnt klingen.",
+     "fa": "لهجه ممکن است اول ناآشنا به نظر برسد.",
+     "fa_added": true
+    },
+    {
+     "say": "Wenn du etwas nicht verstehst, frage freundlich: Können Sie das bitte wiederholen?",
+     "fa": "اگر لهجه را نفهمیدی، مؤدبانه درخواست تکرار یا صحبت آهسته‌تر کن."
+    },
+    {
+     "say": "Oder: Können Sie bitte langsamer sprechen?"
+    }
+   ]
+  },
+  {
+   "id": "monthly_19",
+   "title": "Wirtschaft",
+   "photo": "bmw_headquarters.jpg",
+   "cues": [
+    {
+     "say": "Jetzt wechseln wir von Alltag und Tradition zur Wirtschaft.",
+     "fa": "حالا از زندگی روزمره و سنت به اقتصاد می‌رویم."
+    },
+    {
+     "say": "BMW hat wichtige Standorte in München, darunter ein Werk und Forschungseinrichtungen.",
+     "fa": "BMW در مونیخ مراکز مهمی از جمله کارخانه و پژوهش دارد."
+    },
+    {
+     "say": "Das Foto zeigt das Gebäude der Unternehmenszentrale.",
+     "fa": "عکس ساختمان دفتر مرکزی است؛ نمونه‌ای برای صنعت و معماری، نه تبلیغ یا تأیید کانال از طرف شرکت."
+    },
+    {
+     "say": "Wir zeigen es als Beispiel für Industrie und Architektur."
+    },
+    {
+     "say": "Es ist keine Werbung und bedeutet keine Unterstützung unseres Kanals durch das Unternehmen."
+    }
+   ]
+  },
+  {
+   "id": "monthly_20",
+   "title": "Industrie Wortschatz",
+   "cues": [
+    {
+     "say": "Die Industrie.",
+     "gap": 0.9,
+     "fa": "سه کلمهٔ جدید: صنعت، شرکت و پژوهش."
+    },
+    {
+     "say": "Das Unternehmen.",
+     "gap": 0.9
+    },
+    {
+     "say": "Die Forschung.",
+     "gap": 0.9
+    },
+    {
+     "say": "Das sind drei neue Wörter."
+    },
+    {
+     "say": "Ein Unternehmen ist eine Organisation, die wirtschaftlich tätig ist.",
+     "fa": "شرکت سازمانی است که فعالیت اقتصادی دارد."
+    },
+    {
+     "say": "Forschung bedeutet, Fragen systematisch zu untersuchen und neues Wissen zu gewinnen.",
+     "fa": "پژوهش بررسی نظام‌مند پرسش‌ها برای کسب دانش است."
+    },
+    {
+     "say": "Unser Satz lautet:",
+     "gap": 0.3,
+     "fa": "جمله: به فناوری علاقه دارم."
+    },
+    {
+     "say": "Ich interessiere mich für Technik.",
+     "learn": true
+    },
+    {
+     "say": "Du kannst Technik durch Architektur oder Geschichte ersetzen.",
+     "show": "Du kannst „Technik“ durch „Architektur“ oder „Geschichte“ ersetzen.",
+     "fa": "معماری یا تاریخ را هم جایگزین کن."
+    }
+   ]
+  },
+  {
+   "id": "monthly_21",
+   "title": "Lernen und Forschung",
+   "cues": [
+    {
+     "say": "München ist auch ein Ort des Lernens.",
+     "fa": "مونیخ محل یادگیری هم هست."
+    },
+    {
+     "say": "Die Technische Universität München beschäftigt sich unter anderem mit Naturwissenschaften und Ingenieurwissenschaften.",
+     "fa": "دانشگاه فنی مونیخ از جمله در علوم طبیعی و مهندسی فعالیت دارد."
+    },
+    {
+     "say": "Wir nennen sie als ein Beispiel, nicht als vollständige Liste aller Hochschulen.",
+     "fa": "این فقط یک مثال است."
+    },
+    {
+     "say": "Unsere Sprachfrage lautet:",
+     "gap": 0.3,
+     "fa": "سؤال: چه رشته‌ای می‌خوانی؟"
+    },
+    {
+     "say": "Was studierst du?",
+     "learn": true
+    },
+    {
+     "say": "Eine mögliche Antwort:",
+     "gap": 0.3,
+     "fa": "پاسخ نمونه: مهندسی عمران می‌خوانم."
+    },
+    {
+     "say": "Ich studiere Bauingenieurwesen.",
+     "learn": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_21x",
+   "title": "Zwischenstopp 2",
+   "added": true,
+   "cues": [
+    {
+     "say": "Noch ein kurzer Zwischenstopp. Lies den persischen Satz und sage ihn auf Deutsch.",
+     "fa": "یک توقف کوتاه دیگر. جملهٔ فارسی را بخوان و به آلمانی بگو.",
+     "fa_added": true,
+     "gap": 0.8
+    },
+    {
+     "say": "Erstens.",
+     "wait": 5,
+     "fa": "کجا باید پیاده شوم؟"
+    },
+    {
+     "say": "Wo muss ich aussteigen?",
+     "gap": 0.9
+    },
+    {
+     "say": "Zweitens.",
+     "wait": 5,
+     "fa": "یک پرتزل، لطفاً."
+    },
+    {
+     "say": "Eine Brezel, bitte.",
+     "gap": 0.9
+    },
+    {
+     "say": "Drittens.",
+     "wait": 5,
+     "fa": "به فناوری علاقه دارم."
+    },
+    {
+     "say": "Ich interessiere mich für Technik.",
+     "gap": 0.9
+    },
+    {
+     "say": "Viertens.",
+     "wait": 5,
+     "fa": "چه رشته‌ای می‌خوانی؟"
+    },
+    {
+     "say": "Was studierst du?",
+     "gap": 0.9
+    },
+    {
+     "say": "Sehr gut. Du kannst schon viele Fragen stellen.",
+     "fa": "خیلی خوب. حالا می‌توانی سؤال‌های زیادی بپرسی.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_22",
+   "title": "Drei Interessen",
+   "cues": [
+    {
+     "say": "Welche Seite der Stadt interessiert dich?",
+     "fa": "کدام جنبهٔ شهر برایت جالب است: فرهنگ، طبیعت یا فناوری؟"
+    },
+    {
+     "say": "Kultur, Natur oder Technik?"
+    },
+    {
+     "say": "Formuliere einen Satz:",
+     "gap": 0.4,
+     "fa": "جملهٔ «Ich interessiere mich für …» را با یکی از این موضوع‌ها کامل کن."
+    },
+    {
+     "say": "Ich interessiere mich für Kultur.",
+     "fa": "به فرهنگ علاقه دارم.",
+     "fa_added": true
+    },
+    {
+     "say": "Ich interessiere mich für Natur.",
+     "fa": "به طبیعت علاقه دارم.",
+     "fa_added": true
+    },
+    {
+     "say": "Ich interessiere mich für Technik.",
+     "fa": "به فناوری علاقه دارم."
+    },
+    {
+     "say": "Jetzt bist du dran.",
+     "fa": "حالا نوبت توست.",
+     "fa_added": true
+    },
+    {
+     "say": "Wähle ein Thema und sprich den Satz laut.",
+     "wait": 6,
+     "fa": "یک موضوع انتخاب کن و جمله را بلند بگو.",
+     "fa_added": true
+    },
+    {
+     "say": "Du brauchst dafür keine perfekte Aussprache.",
+     "fa": "برای این کار لازم نیست تلفظت بی‌نقص باشد.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_23",
+   "title": "Mini-Reise planen",
+   "cues": [
+    {
+     "say": "Wir planen keine echte gebuchte Reise, sondern eine Sprachaufgabe.",
+     "fa": "یک تمرین زبانی داریم، نه سفر رزروشده."
+    },
+    {
+     "say": "Am Vormittag möchtest du die Altstadt besichtigen.",
+     "fa": "صبح بافت قدیمی و بعد پارک."
+    },
+    {
+     "say": "Danach möchtest du im Park spazieren gehen."
+    },
+    {
+     "say": "Du kannst sagen:",
+     "gap": 0.3,
+     "fa": "اول به مارین‌پلاتس می‌روم."
+    },
+    {
+     "say": "Zuerst gehe ich zum Marienplatz.",
+     "learn": true
+    },
+    {
+     "say": "Danach gehe ich in den Park.",
+     "learn": true,
+     "fa": "سپس به پارک می‌روم."
+    },
+    {
+     "say": "Zuerst und danach helfen dir, einen Ablauf einfach zu beschreiben.",
+     "show": "„Zuerst“ und „danach“ helfen dir, einen Ablauf einfach zu beschreiben.",
+     "fa": "«zuerst» و «danach» ترتیب را نشان می‌دهند."
+    },
+    {
+     "say": "Achte noch auf einen kleinen Unterschied: Wohin gehe ich? In den Park. Wo gehe ich spazieren? Im Park.",
+     "added": true,
+     "fa": "به یک تفاوت کوچک دقت کن: به کجا می‌روم؟ «in den Park». کجا قدم می‌زنم؟ «im Park».",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_24",
+   "title": "Dialog Kultur",
+   "cues": [
+    {
+     "say": "Höre dieses Gespräch.",
+     "fa": "این گفت‌وگو را گوش کن.",
+     "fa_added": true,
+     "gap": 0.8
+    },
+    {
+     "say": "Was möchtest du in München sehen?",
+     "role": "Person A",
+     "gap": 0.75,
+     "fa": "چه می‌خواهی در مونیخ ببینی؟"
+    },
+    {
+     "say": "Ich möchte die Altstadt besichtigen.",
+     "role": "Person B",
+     "gap": 0.75,
+     "fa": "می‌خواهم بافت قدیمی را ببینم."
+    },
+    {
+     "say": "Interessierst du dich auch für Technik?",
+     "role": "Person A",
+     "gap": 0.75,
+     "fa": "به فناوری هم علاقه داری؟"
+    },
+    {
+     "say": "Ja. Aber zuerst möchte ich im Park spazieren gehen.",
+     "role": "Person B",
+     "gap": 0.75,
+     "fa": "بله، اما اول می‌خواهم در پارک قدم بزنم."
+    },
+    {
+     "say": "Gute Idee. Wie kommen wir dorthin?",
+     "role": "Person A",
+     "gap": 0.75,
+     "fa": "فکر خوبی است. چطور به آنجا برویم؟",
+     "fa_added": true
+    },
+    {
+     "say": "Wir fragen nach dem Weg.",
+     "role": "Person B",
+     "gap": 0.9,
+     "fa": "مسیر را می‌پرسیم.",
+     "fa_added": true
+    },
+    {
+     "say": "Jetzt übernimm die Rolle von Person B.",
+     "fa": "حالا نقش نفر دوم را تمرین کن."
+    }
+   ]
+  },
+  {
+   "id": "monthly_24x",
+   "title": "Deine Rolle",
+   "added": true,
+   "cues": [
+    {
+     "say": "Ich bin Person A. Du antwortest als Person B.",
+     "fa": "من نفر اول هستم. تو به‌جای نفر دوم جواب بده.",
+     "fa_added": true,
+     "gap": 0.8
+    },
+    {
+     "say": "Was möchtest du in München sehen?",
+     "role": "Person A",
+     "wait": 5,
+     "fa": "چه می‌خواهی در مونیخ ببینی؟"
+    },
+    {
+     "say": "Ich möchte die Altstadt besichtigen.",
+     "role": "Musterantwort",
+     "gap": 0.9,
+     "fa": "می‌خواهم بافت قدیمی را ببینم."
+    },
+    {
+     "say": "Interessierst du dich auch für Technik?",
+     "role": "Person A",
+     "wait": 5,
+     "fa": "به فناوری هم علاقه داری؟"
+    },
+    {
+     "say": "Ja. Aber zuerst möchte ich im Park spazieren gehen.",
+     "role": "Musterantwort",
+     "gap": 0.9,
+     "fa": "بله، اما اول می‌خواهم در پارک قدم بزنم."
+    },
+    {
+     "say": "Gute Idee. Wie kommen wir dorthin?",
+     "role": "Person A",
+     "wait": 5,
+     "fa": "فکر خوبی است. چطور به آنجا برویم؟"
+    },
+    {
+     "say": "Wir fragen nach dem Weg.",
+     "role": "Musterantwort",
+     "gap": 0.9,
+     "fa": "مسیر را می‌پرسیم."
+    },
+    {
+     "say": "Super! Du hast die ganze Rolle gesprochen.",
+     "fa": "عالی! همهٔ نقش را گفتی.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_24y",
+   "title": "Mini-Geschichte",
+   "added": true,
+   "cues": [
+    {
+     "say": "Jetzt hörst du eine kleine Geschichte. Sie ist erfunden.",
+     "fa": "حالا یک داستان کوتاه می‌شنوی. داستان خیالی است.",
+     "fa_added": true,
+     "gap": 0.8
+    },
+    {
+     "say": "Sara kommt am Morgen in München an.",
+     "fa": "سارا صبح به مونیخ می‌رسد.",
+     "fa_added": true
+    },
+    {
+     "say": "Sie fragt: Entschuldigung, wie komme ich zum Marienplatz?",
+     "fa": "می‌پرسد: ببخشید، چطور به مارین‌پلاتس بروم؟",
+     "fa_added": true
+    },
+    {
+     "say": "Zuerst besichtigt sie die Altstadt.",
+     "fa": "اول از بافت قدیمی بازدید می‌کند.",
+     "fa_added": true
+    },
+    {
+     "say": "Sie sieht Türme, Fenster und Fassaden.",
+     "fa": "برج‌ها، پنجره‌ها و نماها را می‌بیند.",
+     "fa_added": true
+    },
+    {
+     "say": "Danach geht sie in den Park.",
+     "fa": "سپس به پارک می‌رود.",
+     "fa_added": true
+    },
+    {
+     "say": "Im Park geht sie spazieren und macht ein Foto.",
+     "fa": "در پارک قدم می‌زند و عکس می‌گیرد.",
+     "fa_added": true
+    },
+    {
+     "say": "Am Nachmittag kauft sie eine Brezel.",
+     "fa": "بعدازظهر یک پرتزل می‌خرد.",
+     "fa_added": true
+    },
+    {
+     "say": "Sara sagt: Ich interessiere mich für Kultur und Natur.",
+     "fa": "سارا می‌گوید: به فرهنگ و طبیعت علاقه دارم.",
+     "fa_added": true,
+     "gap": 0.9
+    },
+    {
+     "say": "Erste Frage: Was besichtigt Sara zuerst?",
+     "wait": 5,
+     "fa": "سؤال اول: سارا اول از کجا بازدید می‌کند؟",
+     "fa_added": true
+    },
+    {
+     "say": "Die Altstadt.",
+     "chime": true,
+     "fa": "بافت قدیمی.",
+     "fa_added": true,
+     "gap": 0.9
+    },
+    {
+     "say": "Zweite Frage: Was macht Sara im Park?",
+     "wait": 5,
+     "fa": "سؤال دوم: سارا در پارک چه می‌کند؟",
+     "fa_added": true
+    },
+    {
+     "say": "Sie geht spazieren und macht ein Foto.",
+     "chime": true,
+     "fa": "قدم می‌زند و عکس می‌گیرد.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_25",
+   "title": "Quiz Stadt und Land",
+   "cues": [
+    {
+     "say": "Unser erstes Quiz: Was ist Bayern?",
+     "fa": "آزمون: بایرن چیست؟"
+    },
+    {
+     "say": "A: eine Stadt."
+    },
+    {
+     "say": "B: ein Bundesland."
+    },
+    {
+     "say": "C: ein Bahnhof.",
+     "wait": 5
+    },
+    {
+     "say": "Die richtige Antwort ist B.",
+     "chime": true,
+     "fa": "پاسخ B، ایالت.",
+     "gap": 0.9
+    },
+    {
+     "say": "Zweite Frage: Was ist München?",
+     "wait": 5,
+     "fa": "مونیخ چیست؟"
+    },
+    {
+     "say": "Richtig: eine Stadt und die Landeshauptstadt Bayerns.",
+     "chime": true,
+     "fa": "شهر و مرکز ایالت بایرن.",
+     "gap": 0.9
+    },
+    {
+     "say": "Dritte Frage: Welcher Ort war heute unser Beispiel für einen Park?",
+     "wait": 5,
+     "fa": "مثال پارک امروز چه بود؟"
+    },
+    {
+     "say": "Der Englische Garten.",
+     "chime": true,
+     "fa": "باغ انگلیسی."
+    }
+   ]
+  },
+  {
+   "id": "monthly_26",
+   "title": "Quiz sprechen",
+   "cues": [
+    {
+     "say": "Jetzt ohne Auswahlmöglichkeiten.",
+     "fa": "حالا بدون گزینه.",
+     "gap": 0.8
+    },
+    {
+     "say": "Wie fragst du nach dem Weg zum Bahnhof?",
+     "wait": 5,
+     "fa": "مسیر ایستگاه را چطور می‌پرسی؟"
+    },
+    {
+     "say": "Wie sagst du, dass du im Park spazieren gehst?",
+     "wait": 5,
+     "fa": "قدم زدن در پارک را چطور می‌گویی؟"
+    },
+    {
+     "say": "Wie sagst du, dass du dich für Technik interessierst?",
+     "wait": 5,
+     "fa": "علاقه به فناوری را چطور می‌گویی؟"
+    },
+    {
+     "say": "Vergleiche danach:",
+     "gap": 0.4,
+     "fa": "بعد پاسخ‌ها را مقایسه کن."
+    },
+    {
+     "say": "Wie komme ich zum Bahnhof?",
+     "fa": "چطور به ایستگاه قطار بروم؟"
+    },
+    {
+     "say": "Ich gehe im Park spazieren.",
+     "fa": "در پارک قدم می‌زنم."
+    },
+    {
+     "say": "Ich interessiere mich für Technik.",
+     "fa": "به فناوری علاقه دارم."
+    }
+   ]
+  },
+  {
+   "id": "monthly_26x",
+   "title": "Wortschatz-Check",
+   "added": true,
+   "cues": [
+    {
+     "say": "Zum Schluss ein Wortschatz-Check. Sprich jedes Wort mit Artikel nach.",
+     "fa": "در پایان، مرور واژه‌ها. هر کلمه را با حرف تعریف تکرار کن.",
+     "fa_added": true,
+     "gap": 0.8
+    },
+    {
+     "say": "das Land.",
+     "show": "das Land",
+     "fa": "کشور",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "das Bundesland.",
+     "show": "das Bundesland",
+     "fa": "ایالت",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "die Stadt.",
+     "show": "die Stadt",
+     "fa": "شهر",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "die Altstadt.",
+     "show": "die Altstadt",
+     "fa": "بافت قدیمی",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "die Sehenswürdigkeit.",
+     "show": "die Sehenswürdigkeit",
+     "fa": "دیدنی",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "der Park.",
+     "show": "der Park",
+     "fa": "پارک",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "die U-Bahn.",
+     "show": "die U-Bahn",
+     "fa": "مترو",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "der Bahnhof.",
+     "show": "der Bahnhof",
+     "fa": "ایستگاه قطار",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "die Haltestelle.",
+     "show": "die Haltestelle",
+     "fa": "ایستگاه",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "die Brezel.",
+     "show": "die Brezel",
+     "fa": "پرتزل",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "die Tradition.",
+     "show": "die Tradition",
+     "fa": "سنت",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "das Unternehmen.",
+     "show": "das Unternehmen",
+     "fa": "شرکت",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "die Forschung.",
+     "show": "die Forschung",
+     "fa": "پژوهش",
+     "fa_added": true,
+     "pause": 1.7
+    },
+    {
+     "say": "Wie viele Wörter kennst du schon?",
+     "fa": "چند کلمه را از قبل می‌شناسی؟",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_27",
+   "title": "Rückblick",
+   "photo": "marienplatz.jpg",
+   "cues": [
+    {
+     "say": "Wir haben München aus mehreren Blickwinkeln betrachtet: Stadt und Bundesland, Altstadt und Park, Alltag und Industrie.",
+     "fa": "مونیخ را از چند زاویه دیدیم: شهر و ایالت، بافت قدیمی و پارک، زندگی روزمره و صنعت."
+    },
+    {
+     "say": "Kein einzelnes Foto erzählt alles über einen Ort.",
+     "fa": "هیچ عکس یا جشن واحدی تمام یک مکان یا مردمش را توضیح نمی‌دهد."
+    },
+    {
+     "say": "Und kein einzelnes Fest beschreibt alle Menschen."
+    },
+    {
+     "say": "Du hast heute gelernt, einfache Beobachtungen in deutsche Sätze zu verwandeln.",
+     "fa": "مشاهده‌ها را به جمله‌های آلمانی تبدیل کردیم."
+    },
+    {
+     "say": "Genau darum geht es in dieser Reihe.",
+     "fa": "هدف این مجموعه همین است.",
+     "fa_added": true
+    }
+   ]
+  },
+  {
+   "id": "monthly_28",
+   "title": "Abschluss",
+   "cues": [
+    {
+     "say": "Welche Stadt sollen wir als Nächstes entdecken?",
+     "fa": "شهر بعدی کدام باشد؟"
+    },
+    {
+     "say": "Schreibe den Namen und einen Grund in die Kommentare.",
+     "fa": "نام و یک دلیل را در کامنت بنویس."
+    },
+    {
+     "say": "Speichere drei Sätze aus dieser Folge und übe sie noch einmal.",
+     "fa": "سه جمله از این قسمت را دوباره تمرین کن."
+    },
+    {
+     "say": "Abonniere Deutsch mit Farsi für weitere Alltagslektionen und unsere nächste Städtefolge.",
+     "fa": "برای درس‌های روزمره و قسمت بعدی شهرها سابسکرایب کن."
+    },
+    {
+     "say": "Jeden Tag einen Schritt näher an die deutsche Sprache.",
+     "fa": "هر روز یک قدم به زبان آلمانی نزدیک‌تر."
+    }
+   ]
+  }
+ ]
+}
