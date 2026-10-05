@@ -1,0 +1,4 @@
+@echo off
+copy /b muenchen_bayern_entdecken_ORIGINAL.mp4.part00+muenchen_bayern_entdecken_ORIGINAL.mp4.part01+muenchen_bayern_entdecken_ORIGINAL.mp4.part02+muenchen_bayern_entdecken_ORIGINAL.mp4.part03 muenchen_bayern_entdecken_ORIGINAL.mp4
+echo Fertig: muenchen_bayern_entdecken_ORIGINAL.mp4
+pause
